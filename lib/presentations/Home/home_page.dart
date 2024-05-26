@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:shoppy/presentations/Home/Widget/card_image_slider.dart';
+import 'package:shoppy/presentations/Home/Widget/card_product.dart';
 import 'package:shoppy/presentations/Home/Widget/category.dart';
-import 'package:shoppy/presentations/Home/Widget/home_appbar.dart';
+import 'package:shoppy/presentations/Home/Widget/home_app_bar.dart';
 import 'package:shoppy/presentations/Home/Widget/search_bar.dart';
 import 'package:shoppy/utils/style.dart';
 
@@ -55,7 +56,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                   const SizedBox(height: 10),
-                  const CardImageSlider(),
+                  const ImageSliderCard(),
                   const SizedBox(height: 15),
                   Text(
                     "Categories",
@@ -67,7 +68,29 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                   const SizedBox(height: 10),
-                  const Categories()
+                  const Categories(),
+                  Text(
+                    "Product for you!",
+                    style: GoogleFonts.inter(
+                      textStyle: TextStyle(
+                          fontSize: 15,
+                          color: ktextColor,
+                          fontWeight: FontWeight.w600),
+                    ),
+                  ),
+                  GridView.builder(
+                    physics: const NeverScrollableScrollPhysics(),
+                    shrinkWrap: true,
+                    itemCount: 6,
+                    gridDelegate:
+                        const SliverGridDelegateWithFixedCrossAxisCount(
+                      childAspectRatio: (1 / 1.5),
+                      crossAxisCount: 2,
+                    ),
+                    itemBuilder: (context, index) {
+                      return const ProductCard();
+                    },
+                  )
                 ],
               ),
             ),

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:shoppy/utils/style.dart';
 
-class CardImageSlider extends StatelessWidget {
-  const CardImageSlider({super.key});
+class ImageSliderCard extends StatelessWidget {
+  const ImageSliderCard({super.key});
 
   @override
   Widget build(BuildContext context) {

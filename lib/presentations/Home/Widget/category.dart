@@ -10,7 +10,7 @@ class Categories extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      height: 130,
+      height: 95,
       child: ListView.separated(
         scrollDirection: Axis.horizontal,
         itemCount: categories.length,
