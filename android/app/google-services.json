@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854901185197",
+    "project_id": "shoppy-baf24",
+    "storage_bucket": "shoppy-baf24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854901185197:android:a5365842979fdc95a94424",
+        "android_client_info": {
+          "package_name": "com.example.shoppy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6yva8Hh0GGBMdMcAKbYMsz4qLtLjHGcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
