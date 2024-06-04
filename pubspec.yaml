@@ -2,21 +2,24 @@ name: shoppy
 version: 1.0.0+1
 publish_to: none
 description: A new Flutter project.
-environment: 
-  sdk: '>=3.3.4 <4.0.0'
+environment:
+  sdk: ">=3.3.4 <4.0.0"
 
-dependencies: 
+dependencies:
   cupertino_icons: ^1.0.6
   get: ^4.6.6
-  flutter: 
+  google_fonts: ^6.2.1
+  firebase_core: ^2.31.1
+  flutter:
     sdk: flutter
 
-dev_dependencies: 
+dev_dependencies:
   get_cli: ^1.6.0
   flutter_lints: ^3.0.0
-  flutter_test: 
+  flutter_test:
     sdk: flutter
 
-flutter: 
+flutter:
   uses-material-design: true
-
+  assets:
+    - assets/images/
