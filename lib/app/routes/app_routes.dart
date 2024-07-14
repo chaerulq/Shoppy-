@@ -3,16 +3,18 @@ part of 'app_pages.dart';
 
 abstract class Routes {
   Routes._();
-  static const HOME = _Paths.HOME;
-  static const CART = _Paths.CART;
-  static const DETAIL = _Paths.DETAIL;
-  static const FAVORITE = _Paths.FAVORITE;
+  static const home = _Paths.home;
+  static const cart = _Paths.cart;
+  static const detail = _Paths.detail;
+  static const favorite = _Paths.favorite;
+  static const profile = _Paths.profile;
 }
 
 abstract class _Paths {
   _Paths._();
-  static const HOME = '/home';
-  static const CART = '/cart';
-  static const DETAIL = '/detail';
-  static const FAVORITE = '/favorite';
+  static const home = '/home';
+  static const cart = '/cart';
+  static const detail = '/detail';
+  static const favorite = '/favorite';
+  static const profile = '/profile';
 }

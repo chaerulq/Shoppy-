@@ -1,0 +1,13 @@
+{
+  "account": [
+    {
+      "name": "name",
+      "username": "username",
+      "password": "password",
+      "phone_number": "phone_number",
+      "pin": "pin",
+      "saldo": "saldo",
+      "uID": "uID"
+    }
+  ]
+}

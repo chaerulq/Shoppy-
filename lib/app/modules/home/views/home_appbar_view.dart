@@ -6,7 +6,8 @@ import 'package:google_fonts/google_fonts.dart';
 import '../../../utils/color.dart';
 
 class HomeAppbarView extends GetView {
-  const HomeAppbarView({super.key});
+  final VoidCallback onMenuPressed;
+  HomeAppbarView({super.key, required this.onMenuPressed});
 
   @override
   Widget build(BuildContext context) {
@@ -14,7 +15,7 @@ class HomeAppbarView extends GetView {
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children: [
         IconButton(
-          onPressed: () {},
+          onPressed: onMenuPressed,
           icon: const Icon(Icons.menu),
         ),
         Text(

@@ -1,20 +1,44 @@
 import 'package:get/get.dart';
+import 'package:shoppy/app/data/service/firebase_service.dart';
+
+import '../../../data/models/product_models.dart';
 
 class HomeController extends GetxController {
-  //TODO: Implement HomeController
+  var isLoading = true.obs;
+  var productList = <Product>[].obs;
+  var selectedCategory = 'hot_deals'.obs;
 
-  final count = 0.obs;
   @override
   void onInit() {
+    fetchProducts();
     super.onInit();
   }
 
-  @override
-  void onReady() {
-    super.onReady();
+  Future<void> fetchProducts() async {
+    try {
+      isLoading(true);
+      var products = await FirebaseService().fetchProducts();
+      if (products.isNotEmpty) {
+        productList.assignAll(products);
+      }
+    } finally {
+      isLoading(false);
+    }
   }
 
-  @override
-  void onClose() {}
-  void increment() => count.value++;
+  List<String> get categories {
+    return ['hot_deals', ...productList.map((p) => p.category).toSet()];
+  }
+
+  List<Product> get filteredProducts {
+    if (selectedCategory.value == 'hot_deals') {
+      return productList
+          .where((product) => product.category == selectedCategory.value)
+          .toList();
+    } else {
+      return productList
+          .where((product) => product.category == selectedCategory.value)
+          .toList();
+    }
+  }
 }

@@ -1,20 +1,20 @@
 import 'package:get/get.dart';
+import '../../../data/models/product_models.dart';
 
 class FavoriteController extends GetxController {
-  //TODO: Implement FavoriteController
+  var favoriteItems = <Product>[].obs;
 
-  final count = 0.obs;
-  @override
-  void onInit() {
-    super.onInit();
+  void addToFavorites(Product product) {
+    if (!favoriteItems.contains(product)) {
+      favoriteItems.add(product);
+    }
   }
 
-  @override
-  void onReady() {
-    super.onReady();
+  void removeFromFavorites(Product product) {
+    favoriteItems.remove(product);
   }
 
-  @override
-  void onClose() {}
-  void increment() => count.value++;
+  bool isFavorite(Product product) {
+    return favoriteItems.contains(product);
+  }
 }

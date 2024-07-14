@@ -1,0 +1,612 @@
+{
+  "product": [
+    {
+      "title": "Berry Delight Pancakes",
+      "description": "Berry Delight Pancakes adalah pancake lembut yang dihiasi dengan beragam buah berry segar, seperti stroberi, blueberry, raspberry, dan kadang-kadang blackberry. Pancake ini memiliki tekstur yang ringan dan lembut di dalam, sementara buah-buahan berry memberikan rasa manis dan segar yang khas. Biasanya disajikan dengan sirup maple atau whipped cream untuk menambahkan cita rasa manis yang lezat. Pancake ini tidak hanya enak dinikmati, tetapi juga memberikan pengalaman visual yang menarik dengan warna-warni buah berry yang menyegarkan. Ideal dinikmati sebagai sarapan atau santapan ringan yang memanjakan lidah dan memberi energi untuk memulai hari dengan semangat.",
+      "rate": "4.4",
+      "price": "83000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/desert%2Fberry_delight_pancakes_11zon.jpg?alt=media&token=c34cd4c3-ea86-4dc2-a46e-77c998940331",
+      "category": "desert"
+    },
+    {
+      "title": "Berry Medley Cake",
+      "description": "Berry Medley Cake adalah kue lezat yang terdiri dari lapisan-lapisan moist cake yang diisi dengan campuran beragam buah berry segar, seperti stroberi, blueberry, raspberry, dan blackberry. Setiap lapisan kue yang lembut dipadukan dengan taburan buah berry yang segar memberikan pengalaman rasa yang beragam, mulai dari manis hingga sedikit asam. Kue ini sering kali dilapisi dengan lapisan krim lembut atau frosting vanilla untuk menambahkan kelezatan dan tekstur yang menyatu dengan sempurna. Tampilannya yang indah dengan warna-warni buah berry membuat kue ini menjadi daya tarik visual yang menawan. Cocok dinikmati sebagai hidangan penutup yang menyegarkan dan memanjakan lidah di setiap gigitannya.",
+      "rate": "4.2",
+      "price": "85000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/desert%2Fberry_medley_cake_11zon.jpg?alt=media&token=5b29ca9f-ba34-44ba-8fc4-02fc05e39d42",
+      "category": "desert"
+    },
+    {
+      "title": "Creamy Classic Cheesecake",
+      "description": "Creamy Classic Cheesecake adalah hidangan penutup yang memukau yang menggabungkan kelezatan dan kelembutan klasik cheesecake dengan tekstur yang lembut dan krimi. Cheesecake ini terdiri dari lapisan dasar crumbly yang biasanya terbuat dari remah biskuit graham atau kue kering yang disusun di dasar loyang. Lalu, lapisan cheesecake yang kaya dan lembut, terbuat dari campuran cream cheese, gula, telur, dan sedikit vanila, disajikan di atas lapisan dasar. Cheesecake kemudian dipanggang hingga matang dengan sempurna, menghasilkan permukaan yang halus dan karamelisasi yang ringan di bagian atasnya. Sebagian besar Creamy Classic Cheesecake disajikan dingin setelah didinginkan dalam lemari es, yang meningkatkan kelezatannya. Beberapa variasi bisa disajikan dengan saus buah atau topping buah seperti stroberi, blueberry, atau raspberry untuk menambahkan sentuhan manis dan warna yang indah. Dengan rasa yang kaya dan tekstur yang lembut, Creamy Classic Cheesecake adalah pilihan sempurna untuk setiap kesempatan istimewa atau untuk memanjakan diri Anda sendiri dengan hidangan penutup yang elegan dan memuaskan.",
+      "rate": "4.4",
+      "price": "89000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/desert%2Fcreamy_classic_cheesecake_11zon.jpg?alt=media&token=ee24c7ef-6e7b-4cec-8250-3f44f351672c",
+      "category": "desert"
+    },
+    {
+      "title": "Crispy Crust Loaf",
+      "description": "Crispy Crust Loaf adalah roti yang memiliki kerak yang renyah dan gurih di luar, dengan tekstur lembut dan empuk di dalamnya. Roti ini terkenal karena keraknya yang kaya akan rasa, yang dicapai melalui proses pemanggangan khusus yang menghasilkan warna keemasan yang menarik dan tekstur yang renyah ketika digigit. Bagian dalamnya biasanya lembut dan empuk, dengan serpihan-serpihan kecil roti yang menambahkan dimensi tambahan pada pengalaman mengunyah. Crispy Crust Loaf cocok untuk diiris dan disajikan sebagai roti pendamping untuk hidangan berat, atau dapat dinikmati sebagai roti panggang yang lezat dengan mentega atau selai.",
+      "rate": "4.6",
+      "price": "81000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/desert%2Fcrispy_crust_loaf_11zon.jpg?alt=media&token=aba4c07d-87c9-4eb6-8c85-ccb4e38a96dd",
+      "category": "desert"
+    },
+    {
+      "title": "Decadent Chocolate Brownies",
+      "description": "Decadent Chocolate Brownies adalah penganan lezat yang menggoda dengan rasa cokelat yang kaya dan tekstur yang lembut. Brownies ini terbuat dari campuran tepung, cokelat, mentega, telur, dan gula yang dipanggang hingga matang. Mereka memiliki lapisan luar yang renyah dan karamelisasi yang ringan, sementara bagian dalamnya tetap lembut dan berongga. Rasa cokelat yang intens dan manis yang meleleh di mulut bersama dengan konsistensi yang kenyal membuatnya menjadi hidangan penutup yang sangat memuaskan. Beberapa varian mungkin juga mencakup tambahan seperti kacang-kacangan panggang, potongan cokelat, atau lapisan ganache cokelat yang lebih kaya. Decadent Chocolate Brownies adalah pilihan yang sempurna untuk memuaskan kerinduan akan cokelat yang mendalam atau untuk membuat hidangan penutup yang istimewa dalam acara khusus atau pesta. Sajikan dengan segelas susu dingin atau es krim vanila untuk pengalaman manis yang tak terlupakan.",
+      "rate": "4.4",
+      "price": "83000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/desert%2Fdecadent_chocolate_brownies_11zon.jpg?alt=media&token=b9069c46-acda-41f2-9d56-a4328752a282",
+      "category": "desert"
+    },
+    {
+      "title": "Fruit Terrine Delight",
+      "description": "Fruit Terrine Delight adalah hidangan penutup yang menggabungkan keindahan dan kelezatan buah-buahan dengan sentuhan elegan. Hidangan ini terdiri dari lapisan-lapisan buah-buahan segar yang diatur secara artistik di dalam cetakan terrine, yang kemudian diisi dengan agar-agar atau jel agar-agar yang lembut. Buah-buahan yang sering digunakan termasuk stroberi, kiwi, blueberry, anggur, dan potongan-potongan buah lainnya, memberikan variasi warna dan rasa yang menarik. Setelah proses pengaturan dan pembekuan, Fruit Terrine Delight dihidangkan dengan dipotong menjadi irisan yang cantik. Setiap irisan menampilkan potongan buah yang tersusun rapi di dalam agar-agar yang jernih dan transparan. Hidangan ini tidak hanya mempesona secara visual, tetapi juga menyajikan kombinasi rasa yang menyegarkan dan manis dari berbagai buah-buahan yang digunakan. Fruit Terrine Delight adalah pilihan penutup yang sempurna untuk acara-acara khusus atau pesta, menambahkan sentuhan elegan dan keceriaan pada meja hidangan. Rasanya yang segar dan teksturnya yang lembut membuatnya disukai oleh semua orang, menjadikannya hidangan penutup yang diinginkan untuk dinikmati setelah makan yang berat.",
+      "rate": "4.1",
+      "price": "78000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/desert%2Ffruit_terrine_delight_11zon.jpg?alt=media&token=7ad9c4bd-7e29-47cc-8b25-4042b00694f6",
+      "category": "desert"
+    },
+    {
+      "title": "Stacked Brownies",
+      "description": "Stacked Brownies adalah variasi yang menggoda dari klasik brownies, di mana lapisan-lapisan lezat dari berbagai jenis brownies yang berbeda disusun secara artistik untuk menciptakan tumpukan yang menggugah selera. Setiap lapisan brownies mungkin memiliki varian rasa yang unik, seperti cokelat murni, kacang-kacangan panggang, potongan cokelat, atau karamel, memberikan dimensi tambahan pada pengalaman rasa. Setiap potongan Stacked Brownies memiliki konsistensi yang kenyal dan lembut di dalamnya, dengan lapisan luar yang renyah dan karamelisasi yang ringan. Kekayaan rasa cokelat dan manisnya gula membuatnya menjadi hidangan yang sangat memuaskan untuk dinikmati sebagai hidangan penutup atau camilan kapan saja. Dengan tampilan yang menggoda dan rasa yang memikat, Stacked Brownies adalah pilihan yang sempurna untuk memuaskan kerinduan akan cokelat yang mendalam atau untuk membuat kesan yang berkesan dalam acara khusus atau pesta. Rasakan kelezatannya bersama dengan secangkir kopi panas atau susu dingin untuk pengalaman menikmati brownies yang tak terlupakan.",
+      "rate": "4.7",
+      "price": "98000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/desert%2Fstacked_brownies_11zon.jpg?alt=media&token=4d0e577b-b485-4fde-80b4-b3e0d4c3ac25",
+      "category": "desert"
+    },
+    {
+      "title": "Tropical Fruit Salad",
+      "description": "Tropical Fruit Salad adalah komposisi segar dan menarik yang terdiri dari campuran buah-buahan tropis yang segar dan berwarna-warni. Potongan-potongan buah seperti nanas, mangga, papaya, kiwi, melon, dan potongan anggur dipotong dengan cantik dan disajikan dalam mangkuk besar atau piring. Setiap gigitan menawarkan kombinasi rasa manis, asam, dan segar yang khas dari buah-buahan tropis, memberikan sensasi yang menyegarkan pada lidah. Beberapa variasi mungkin juga mencakup tambahan seperti potongan kelapa atau hiasan daun mint untuk menambahkan aroma dan estetika yang menyegarkan. Tropical Fruit Salad adalah pilihan hidangan penutup yang ideal untuk acara-acara musim panas, piknik, atau sebagai penyegar setelah hidangan berat. Rasakan kelezatan dan keceriaan buah-buahan tropis ini yang memikat di setiap suapan.",
+      "rate": "4.5",
+      "price": "85000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/desert%2Ftropical_fruit_salad_11zon.jpg?alt=media&token=dee7e6f5-fda6-439f-a2b0-c6f8892a5aa0",
+      "category": "desert"
+    },
+    {
+      "title": "Assorted Japanese Dumplings",
+      "description": "Assorted Japanese Dumplings adalah pilihan hidangan yang memikat dengan berbagai variasi dumpling tradisional Jepang. Setiap hidangan dapat mencakup berbagai jenis dumpling, seperti gyoza, shumai, dan harusomaki, yang diisi dengan berbagai bahan seperti daging, seafood, sayuran, atau campuran dari semuanya. Gyoza adalah dumpling panggang atau digoreng dengan isian daging cincang yang biasanya dicampur dengan sayuran dan rempah-rempah. Shumai adalah dumpling yang dikukus, biasanya terbuat dari kulit pangsit yang tipis dan diisi dengan campuran daging cincang. Sementara harusomaki adalah dumpling yang diisi dengan berbagai bahan dan dibungkus dengan lembaran rumput laut kering. Setiap dumpling biasanya disajikan dengan saus khas Jepang seperti saus gyoza atau saus ponzu untuk dipadukan dengan rasa yang lebih kompleks. Assorted Japanese Dumplings adalah pilihan yang cocok untuk pencinta kuliner Jepang yang ingin menikmati berbagai variasi dumpling yang autentik dan lezat.",
+      "rate": "4.7",
+      "price": "34000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/dimsum%2FAssorted%20Japanese%20Dumplings_11zon.jpg?alt=media&token=7540dc97-e7b6-478c-836f-ce1bdd16e987",
+      "category": "dimsum"
+    },
+    {
+      "title": "Authentic dumpling Experience",
+      "description": "Authentic Dumpling Experience adalah pengalaman kuliner yang menggabungkan rasa autentik dan keunikan dari dumpling tradisional dari berbagai belahan dunia, disajikan dalam suasana yang menggugah selera. Pengalaman ini biasanya dilakukan di restoran atau tempat makan khusus yang mengkhususkan diri dalam pembuatan dumpling. Selama Authentic Dumpling Experience, para tamu akan diperkenalkan pada berbagai jenis dumpling dari berbagai budaya, seperti Jepang, Tiongkok, Korea, atau Eropa Timur. Mereka akan belajar tentang sejarah dan teknik pembuatan dumpling dari koki yang berpengalaman, serta memiliki kesempatan untuk mencoba tangan mereka sendiri dalam membuat dumpling. Setelah itu, para tamu akan menikmati hidangan dumpling yang telah disiapkan, yang sering disajikan dalam berbagai variasi dan gaya. Ini bisa mencakup gyoza Jepang yang digoreng, dim sum Tiongkok yang dikukus, pierogi Polandia yang direbus, atau manti Turkis yang diisi dengan daging dan rempah-rempah. Pengalaman ini tidak hanya tentang makanan, tetapi juga tentang belajar dan menghargai warisan kuliner yang kaya dari berbagai budaya di seluruh dunia. Authentic Dumpling Experience adalah pilihan yang sempurna untuk para pencinta makanan yang ingin merasakan keanekaragaman dan kelezatan dumpling dalam suasana yang menyenangkan dan edukatif.",
+      "rate": "4.2",
+      "price": "37000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/dimsum%2FAuthentic%20dumpling%20Experience_11zon.jpg?alt=media&token=b483b379-3758-4453-ba0c-ecdb432b3476",
+      "category": "dimsum"
+    },
+    {
+      "title": "Bamboo Steamer Dim Sum",
+      "description": "Bamboo Steamer Dim Sum adalah pilihan hidangan yang menarik dan autentik yang memperkenalkan pengalaman makan yang khas dari kultur makanan Tiongkok. Dim sum merupakan hidangan kecil yang terdiri dari berbagai jenis makanan, seperti dumpling, pangsit, bola daging, pai, dan hidangan lainnya, yang biasanya disajikan dalam porsi kecil dan dimakan bersama-sama. Dalam Bamboo Steamer Dim Sum, dim sum disajikan dalam keranjang pengukus bambu tradisional yang memberikan sentuhan khas pada penyajian. Keranjang bambu ini memungkinkan uap panas dari air mendidih di bawahnya untuk mengukus dim sum dengan lembut, menjaga kelembapan dan menjaga tekstur serta rasa yang autentik. Biasanya, Bamboo Steamer Dim Sum menawarkan berbagai macam pilihan dim sum, termasuk siu mai (dumpling isi daging), har gow (dumpling udang), char siu bao (pao isi daging panggang), cheong fun (nasi gulung), dan masih banyak lagi. Hidangan ini sering disajikan dengan saus khas Tiongkok seperti saus hoisin, saus cabai, atau saus kecap manis untuk meningkatkan cita rasa. Bamboo Steamer Dim Sum adalah pilihan yang populer di restoran Tiongkok di seluruh dunia, dan pengalaman ini tidak hanya tentang rasa, tetapi juga tentang kebersamaan dan menikmati makanan bersama keluarga atau teman. Ini adalah pilihan yang sempurna untuk siapa saja yang ingin mencoba berbagai hidangan tradisional Tiongkok dalam suasana yang santai dan menyenangkan.",
+      "rate": "4.3",
+      "price": "33000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/dimsum%2FBamboo%20Steamer%20Dim%20Sum_11zon.jpg?alt=media&token=38ad3e66-310b-428d-bbe2-e89480a2fc3e",
+      "category": "dimsum"
+    },
+    {
+      "title": "Dumpling Soup",
+      "description": "Dumpling Soup adalah hidangan hangat yang memuaskan yang terdiri dari dumpling yang lembut dan beraroma, direndam dalam kaldu lezat. Biasanya terbuat dari campuran daging cincang, sayuran, dan rempah-rempah yang dibungkus dalam kulit tipis, dumpling ini direbus dalam kaldu hingga matang. Kaldu yang digunakan dalam Dumpling Soup bisa bervariasi, mulai dari kaldu ayam yang ringan hingga kaldu daging sapi yang kaya. Beberapa variasi juga mencakup kaldu sayuran untuk pilihan yang lebih ringan dan vegetarian. Dumpling dan kaldu bersatu dalam satu mangkuk, menciptakan kombinasi rasa yang kaya dan memuaskan. Hidangan ini sering dilengkapi dengan irisan bawang hijau atau daun ketumbar segar untuk memberikan tambahan aroma dan cita rasa. Dumpling Soup adalah pilihan hidangan yang cocok untuk dinikmati saat cuaca dingin atau ketika Anda merasa ingin hidangan yang menghangatkan jiwa dan tubuh.",
+      "rate": "4.3",
+      "price": "32000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/dimsum%2Fdumpling%20soup_11zon.jpg?alt=media&token=f003fa2a-93f0-42d8-92ff-3eb89a1d5f40",
+      "category": "dimsum"
+    },
+    {
+      "title": "Fried Round Dumplings",
+      "description": "Fried Round Dumplings adalah hidangan gurih yang lezat yang terdiri dari dumpling yang dibungkus dengan kulit tipis dan digoreng hingga keemasan dan renyah di luar. Biasanya, dumpling ini diisi dengan campuran daging cincang, sayuran, dan rempah-rempah yang memberikan cita rasa yang kaya dan memuaskan. Proses penggorengan memberikan dumpling tekstur yang berbeda dari yang biasanya, dengan lapisan luar yang renyah dan karamelisasi yang ringan yang menambahkan dimensi baru pada pengalaman makan. Di dalamnya, dumpling tetap lembut dan berisi, menciptakan kontras yang menarik antara lapisan luar dan isian yang gurih. Fried Round Dumplings biasanya disajikan dengan saus atau saus cocolan seperti saus gyoza atau saus sambal untuk memberikan tambahan cita rasa. Hidangan ini cocok dinikmati sebagai camilan atau hidangan pembuka yang menggugah selera, dan sering menjadi favorit di restoran Tiongkok atau dim sum.",
+      "rate": "4.2",
+      "price": "37000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/dimsum%2Ffried%20round%20dumplings_11zon.jpg?alt=media&token=5ac2e318-b0fa-43eb-aba1-3c8a3ac6e16e",
+      "category": "dimsum"
+    },
+    {
+      "title": "Gyoza Japanese Dumpling",
+      "description": "Gyoza adalah jenis dumpling Jepang yang terkenal dengan kulit tipis yang dipanggang atau digoreng hingga keemasan, dan diisi dengan campuran daging cincang (biasanya daging babi atau ayam), sayuran seperti kol atau bawang hijau, serta bumbu dan rempah-rempah seperti jahe, bawang putih, dan saus kedelai. Dumpling ini memiliki rasa yang kaya dan tekstur yang beragam, dengan lapisan luar yang renyah dan garing serta isian yang gurih dan lezat. Gyoza sering disajikan dengan saus khusus gyoza yang terbuat dari campuran saus kedelai, cuka beras, dan minyak wijen, yang memberikan tambahan cita rasa segar dan pedas. Gyoza adalah hidangan yang populer di Jepang dan di seluruh dunia, sering disajikan sebagai hidangan pembuka di restoran Jepang atau dim sum. Ini juga sering disiapkan di rumah sebagai camilan atau hidangan ringan yang disukai oleh banyak orang karena rasanya yang lezat dan kemudahan dalam penyajiannya.",
+      "rate": "4.5",
+      "price": "43000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/dimsum%2Fgyoza%20japanese%20dumpling_11zon.jpg?alt=media&token=8400d2b2-e232-4b43-94ac-b8281ddde9b8",
+      "category": "dimsum"
+    },
+    {
+      "title": "Herbed Dumplings",
+      "description": "Herbed Dumplings adalah varian dumpling yang menggugah selera dengan tambahan rempah-rempah segar yang memberikan aroma dan rasa yang khas. Biasanya, dumpling ini terdiri dari adonan yang diisi dengan campuran daging cincang (seperti ayam, babi, atau sapi) dan sayuran, yang kemudian diperkaya dengan berbagai herba seperti peterseli, thyme, rosemary, atau daun bawang. Adonan dumpling dibuat dari campuran tepung, air, dan kadang-kadang telur, yang kemudian diisi dengan campuran isian berherba dan dibentuk menjadi bola atau bentuk lainnya. Dumpling ini bisa dimasak dengan berbagai cara, termasuk dikukus, direbus, atau digoreng, tergantung pada preferensi. Herbed Dumplings biasanya disajikan dengan kaldu yang kaya atau saus yang lezat untuk meningkatkan cita rasa. Kaldu atau saus ini bisa terbuat dari bahan-bahan seperti kaldu ayam, kaldu sayuran, atau saus krim, yang melengkapi dan menyempurnakan rasa herba dalam dumpling. Hidangan ini cocok dinikmati sebagai bagian dari makan malam yang hangat dan menenangkan, terutama di hari-hari yang dingin. Herbed Dumplings menawarkan kombinasi tekstur lembut dari adonan dan rasa gurih serta aromatik dari herba, membuatnya menjadi pilihan yang memuaskan dan lezat untuk berbagai kesempatan.",
+      "rate": "4.4",
+      "price": "39000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/dimsum%2FHerbed%20Dumplings_11zon.jpg?alt=media&token=6f7a3326-18a1-4196-bba3-26f9fab1feb8",
+      "category": "dimsum"
+    },
+    {
+      "title": "Savory Baked Delicacy",
+      "description": "Savory Baked Delicacy adalah hidangan panggang yang memikat dengan kombinasi rasa gurih yang kaya dan tekstur yang sempurna. Hidangan ini bisa mencakup berbagai jenis makanan panggang seperti pie, quiche, casserole, atau roti isi, yang semuanya menawarkan pengalaman makan yang memuaskan dan menggugah selera. Bahan-bahan yang digunakan dalam Savory Baked Delicacy biasanya mencakup daging cincang (seperti daging sapi, ayam, atau babi), sayuran segar (seperti bayam, jamur, dan bawang), serta keju dan rempah-rempah untuk memberikan kedalaman rasa. Semua bahan ini dipadukan dan dibungkus dengan adonan yang renyah atau lapisan tepung yang lembut, lalu dipanggang hingga matang sempurna. Hasil akhirnya adalah hidangan dengan lapisan luar yang keemasan dan renyah, serta isian yang gurih dan beraroma. Setiap gigitan menawarkan kombinasi rasa yang seimbang antara kelezatan daging, kesegaran sayuran, dan kekayaan keju serta rempah-rempah. Savory Baked Delicacy cocok dinikmati sebagai hidangan utama dalam makan malam keluarga, acara khusus, atau bahkan sebagai hidangan pesta yang elegan. Hidangan ini tidak hanya memanjakan lidah tetapi juga menghadirkan kehangatan dan kenyamanan yang sempurna di setiap suapan.",
+      "rate": "4.3",
+      "price": "38000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/dimsum%2FSavory%20Baked%20Delicacy_11zon.jpg?alt=media&token=6d7406df-923c-4eac-ae01-f43119ef5c5b",
+      "category": "dimsum"
+    },
+    {
+      "title": "Steamed Dumplings Soy Sauce",
+      "description": "Steamed Dumplings with Soy Sauce adalah hidangan lezat yang terdiri dari dumpling yang dikukus hingga empuk dan dihidangkan dengan saus kedelai yang gurih. Dumpling ini biasanya diisi dengan campuran daging cincang (seperti daging babi, ayam, atau udang), sayuran seperti kol, daun bawang, atau jamur, serta bumbu dan rempah-rempah untuk memberikan rasa yang kaya. Dumpling dibuat dengan adonan tipis yang diisi dengan campuran isian, kemudian dilipat dengan rapi sebelum dikukus. Proses pengukusan menjaga kelembutan dumpling dan membuat isiannya tetap juicy dan beraroma. Saus kedelai yang disajikan bersama dumpling ini biasanya merupakan campuran dari kecap asin, sedikit cuka beras, minyak wijen, dan bisa ditambahkan irisan cabai atau bawang putih cincang untuk tambahan rasa. Saus ini memberikan cita rasa gurih dan sedikit asam yang melengkapi kelembutan dan kelezatan dumpling. Steamed Dumplings with Soy Sauce adalah pilihan yang sempurna untuk dinikmati sebagai hidangan pembuka atau camilan. Hidangan ini sering menjadi favorit di restoran dim sum atau tempat makan Asia lainnya karena kesederhanaan dan kelezatannya yang autentik.",
+      "rate": "4.3",
+      "price": "33000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/dimsum%2Fsteamed%20dumplings%20soy%20sauce_11zon.jpg?alt=media&token=b93eb142-7296-42bb-88b9-7f9e388addd8",
+      "category": "dimsum"
+    },
+    {
+      "title": "Toasted Dumplings",
+      "description": "Toasted Dumplings adalah hidangan yang menyajikan dumpling dengan kulit renyah keemasan dan isian yang gurih. Setiap dumpling diisi dengan campuran daging cincang dan sayuran segar yang dibumbui dengan rempah-rempah khas. Dumpling ini kemudian dipanggang atau ditumis hingga permukaannya renyah dan menggoda selera. Bagian dalam dumpling tetap lembut dan juicy, menciptakan kontras tekstur yang memuaskan di setiap gigitan. Dihidangkan dengan saus cocol seperti saus kedelai, saus gyoza, atau saus cabai, Toasted Dumplings menawarkan kombinasi rasa yang kaya dan beragam. Hidangan ini cocok sebagai camilan, hidangan pembuka, atau bahkan sebagai hidangan utama dalam berbagai acara makan. Dengan perpaduan tekstur dan rasa yang sempurna, Toasted Dumplings adalah pilihan yang populer di restoran Asia dan juga mudah untuk dinikmati di rumah. Hidangan ini tidak hanya memanjakan lidah tetapi juga memberikan pengalaman makan yang menyenangkan dan memuaskan.",
+      "rate": "4.1",
+      "price": "31000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/dimsum%2FToasted%20Dumplings_11zon.jpg?alt=media&token=347d59bf-1182-42eb-af85-4c4dc504098d",
+      "category": "dimsum"
+    },
+    {
+      "title": "Blue Hawai Soda",
+      "description": "Blue Hawai Soda adalah minuman segar dan berwarna cerah yang ideal untuk mencerahkan hari-hari Anda. Minuman ini menggabungkan soda berkarbonasi dengan sirup biru yang manis, menciptakan rasa tropis yang menyegarkan dan mengingatkan pada pantai berpasir dan sinar matahari. Setiap tegukan menawarkan kombinasi sempurna antara rasa manis dan sedikit asam, dengan gelembung-gelembung soda yang memberikan sensasi berkilau di lidah. Dihiasi dengan potongan buah segar seperti jeruk atau nanas, dan sering disajikan dengan es batu, Blue Hawai Soda bukan hanya memanjakan selera tetapi juga memikat mata dengan tampilannya yang menawan. Minuman ini adalah pilihan sempurna untuk acara-acara khusus, pesta musim panas, atau sekadar untuk menikmati hari yang cerah dengan sentuhan tropis yang menyenangkan. Minuman ini sering dihiasi dengan potongan buah segar seperti jeruk, ceri, atau nanas, dan sering disajikan dengan es batu untuk menjaga kesegarannya. Kadang-kadang, daun mint atau payung koktail kecil ditambahkan sebagai hiasan, menambah daya tarik visual dan memberikan sentuhan tropis yang menyenangkan.",
+      "rate": "4.2",
+      "price": "23000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/drink%2Fblue_hawai_soda_11zon.jpg?alt=media&token=98e23711-773e-4782-b81c-84b33a57533e",
+      "category": "drink"
+    },
+    {
+      "title": "Coffee with Milk Whipped Cream",
+      "description": "Coffee with Milk Whipped Cream adalah minuman kopi yang memikat dengan kombinasi rasa yang kaya dan tekstur yang lembut. Minuman ini dimulai dengan kopi segar yang diseduh, kemudian ditambahkan susu hangat untuk memberikan kelembutan dan sedikit rasa manis yang alami. Untuk menyempurnakan minuman ini, lapisan whipped cream yang ringan dan lembut ditambahkan di atasnya. Whipped cream memberikan sentuhan mewah dan creamy yang menciptakan kontras dengan rasa kopi yang kuat, serta menambahkan elemen visual yang menarik. Minuman ini sering disajikan dalam cangkir atau gelas yang cantik, dan kadang-kadang dihiasi dengan taburan cokelat parut, bubuk kayu manis, atau sirup karamel untuk memberikan tambahan rasa dan daya tarik visual. Coffee with Milk Whipped Cream adalah pilihan sempurna untuk menikmati saat santai, sebagai penutup makan, atau untuk memulai hari dengan sentuhan kelezatan yang istimewa. Nikmati perpaduan sempurna antara rasa kopi yang kuat, kelembutan susu, dan kemewahan whipped cream dalam setiap tegukan Coffee with Milk Whipped Cream. Minuman ini tidak hanya memanjakan selera tetapi juga memberikan pengalaman minum kopi yang memuaskan dan menyenangkan.",
+      "rate": "4.3",
+      "price": "25000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/drink%2Fcoffee%20with%20milk%20whipped%20cream_11zon.jpg?alt=media&token=d5c8cceb-f128-4cfa-86af-485d0f92e79e",
+      "category": "drink"
+    },
+    {
+      "title": "Cold Grapefruit Soda",
+      "description": "Cold Grapefruit Soda adalah minuman yang memadukan rasa segar dan tajam dari jeruk bali dengan kelezatan soda berkarbonasi. Setiap tegukan memberikan kombinasi rasa pahit-manis yang menyegarkan, membuatnya menjadi pilihan yang sempurna untuk menghilangkan dahaga di hari-hari yang panas. Kesegaran jeruk bali yang alami memberikan sensasi menyegarkan yang tak tertandingi. Minuman ini dibuat dengan mencampurkan jus jeruk bali segar dengan soda berkarbonasi, lalu ditambahkan es batu untuk menjaga suhunya tetap dingin. Rasa soda yang menggelitik dan karbonasi yang melimpah menciptakan pengalaman minum yang menyenangkan dan memuaskan. Setiap gelas biasanya dihiasi dengan irisan jeruk bali atau daun mint untuk menambah kesan visual yang menarik. Cold Grapefruit Soda tidak hanya menyegarkan, tetapi juga kaya akan vitamin C yang baik untuk kesehatan. Minuman ini ideal dinikmati saat bersantai di teras, berkumpul dengan teman, atau sebagai pelengkap makan siang yang ringan. Kombinasi rasa yang seimbang dan kesegaran alami menjadikannya minuman favorit di berbagai kesempatan.",
+      "rate": "4.5",
+      "price": "22000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/drink%2FCold%20grapefruit%20soda_11zon.jpg?alt=media&token=99c36050-f549-4f5e-8c12-70f8255c86ee",
+      "category": "drink"
+    },
+    {
+      "title": "Creamy Dream Shake",
+      "description": "Creamy Dream Shake adalah milkshake yang memanjakan lidah dengan kelezatan creamy dan rasa manis yang sempurna. Dibuat dari campuran es krim vanilla yang lembut, susu segar, dan sirup pilihan seperti cokelat, karamel, atau stroberi, shake ini menawarkan sensasi rasa yang kaya dan tekstur yang halus. Setiap tegukan memberikan kenikmatan yang melimpah, menjadikan minuman ini favorit di kalangan pencinta hidangan penutup. Proses pembuatannya dimulai dengan mencampurkan es krim dan susu dalam blender hingga mencapai konsistensi yang creamy dan tebal. Setelah itu, sirup pilihan ditambahkan untuk memberikan rasa tambahan yang sesuai dengan selera. Minuman ini kemudian disajikan dalam gelas tinggi yang elegan dan dihiasi dengan whipped cream yang tebal serta taburan topping seperti choco chips, buah segar, atau saus karamel, menambah daya tarik visual yang memukau. Creamy Dream Shake adalah pilihan sempurna untuk mereka yang mencari kenikmatan ekstra dalam minuman mereka. Baik sebagai hidangan penutup setelah makan besar atau sebagai camilan manis di sore hari, shake ini tidak hanya menyenangkan lidah tetapi juga membawa kebahagiaan tersendiri dengan setiap tegukannya. Rasakan kemewahan dan kelembutan yang disajikan dalam satu gelas, dan biarkan Creamy Dream Shake membawa Anda ke dalam dunia cita rasa yang memanjakan.",
+      "rate": "4.6",
+      "price": "27000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/drink%2FCreamy%20Dream%20Shake_11zon.jpg?alt=media&token=6449a48c-e639-4e8f-baef-8f3dcafa5162",
+      "category": "drink"
+    },
+    {
+      "title": "Iced Cola",
+      "description": "Iced Cola adalah minuman klasik yang tidak pernah kehilangan pesonanya. Dibuat dengan cola berkarbonasi yang disajikan di atas es batu, minuman ini menawarkan sensasi menyegarkan yang sulit ditandingi. Rasa manis dan tajam dari cola berpadu dengan dinginnya es batu, menciptakan pengalaman minum yang menyenangkan dan memuaskan. Setiap tegukan dari Iced Cola membawa gelembung-gelembung karbonasi yang menggelitik lidah, memberikan sensasi yang menyegarkan terutama saat cuaca panas. Kesederhanaan penyajiannya menjadikan minuman ini favorit di berbagai kesempatan, mulai dari acara santai hingga pesta meriah. Selain itu, minuman ini sering menjadi pelengkap sempurna untuk berbagai hidangan, baik makanan cepat saji maupun makanan rumahan. Iced Cola tidak hanya menyegarkan, tetapi juga memberikan energi instan dengan kandungan kafeinnya. Minuman ini sering kali dihiasi dengan irisan lemon atau jeruk nipis untuk menambah sedikit keasaman yang menyegarkan. Baik dinikmati sendirian atau bersama teman, Iced Cola selalu menjadi pilihan yang tepat untuk menyegarkan diri dan menikmati momen-momen kecil dalam hidup.",
+      "rate": "4.3",
+      "price": "21000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/drink%2Ficed_cola_11zon.jpg?alt=media&token=29dd7c8a-215f-4d16-8309-3144522b30ba",
+      "category": "drink"
+    },
+    {
+      "title": "Iced Latte",
+      "description": "Iced Latte adalah minuman kopi dingin yang menyatukan kekuatan espresso dengan kelembutan susu segar, disajikan di atas es batu untuk menciptakan kesegaran yang sempurna. Minuman ini adalah pilihan ideal bagi pecinta kopi yang ingin menikmati rasa kopi yang kuat namun dalam bentuk yang lebih menyegarkan. Setiap tegukan menawarkan perpaduan rasa kopi yang kaya dan creamy yang memanjakan lidah. Pembuatan Iced Latte dimulai dengan mengekstraksi shot espresso yang pekat, kemudian ditambahkan susu dingin yang creamy. Setelah itu, campuran ini dituangkan di atas segelas es batu, menciptakan minuman yang dingin dan menyegarkan. Iced Latte biasanya disajikan dalam gelas bening untuk menampilkan lapisan espresso dan susu yang berpadu dengan indah, memberikan daya tarik visual yang menggugah selera. Iced Latte adalah pilihan sempurna untuk dinikmati di pagi hari yang panas atau sebagai minuman penyegar di sore hari. Minuman ini dapat dinikmati dalam berbagai varian, seperti dengan tambahan sirup vanila, karamel, atau hazelnut, untuk memberikan sentuhan rasa yang lebih personal. Dengan keseimbangan antara kekuatan kopi dan kelembutan susu, Iced Latte tidak hanya menyegarkan tetapi juga memuaskan hasrat akan kopi dengan cara yang ringan dan menyenangkan.",
+      "rate": "4.5",
+      "price": "26000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/drink%2Ficed_latte_11zon.jpg?alt=media&token=ab3aebde-9407-4282-840a-be6f30258682",
+      "category": "drink"
+    },
+    {
+      "title": "Lemony Chill Tea",
+      "description": "Lemony Chill Tea adalah minuman teh dingin yang menyegarkan dengan sentuhan lemon yang tajam dan menyenangkan. Dibuat dari teh hitam atau hijau yang diseduh dan didinginkan, minuman ini kemudian diperkaya dengan perasan lemon segar yang memberikan rasa asam yang menyegarkan. Setiap tegukan Lemony Chill Tea menawarkan kombinasi rasa yang seimbang antara kepahitan teh dan keasaman lemon yang menggugah selera. Proses pembuatan Lemony Chill Tea dimulai dengan menyeduh teh pilihan hingga mencapai kekuatan rasa yang diinginkan. Setelah itu, teh didinginkan dan dicampur dengan jus lemon segar serta sedikit pemanis, seperti madu atau gula, untuk menyeimbangkan rasa. Minuman ini disajikan di atas es batu dan biasanya dihiasi dengan irisan lemon atau daun mint segar untuk memberikan aroma tambahan dan daya tarik visual. Lemony Chill Tea adalah minuman yang sempurna untuk dinikmati di hari-hari panas, memberikan sensasi segar yang menenangkan. Minuman ini tidak hanya memuaskan dahaga tetapi juga kaya akan antioksidan dari teh dan vitamin C dari lemon, menjadikannya pilihan yang sehat sekaligus lezat. Lemony Chill Tea adalah pilihan yang ideal untuk bersantai di teras, menemani waktu membaca, atau sebagai minuman penutup yang ringan setelah makan.",
+      "rate": "4.1",
+      "price": "23000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/drink%2FLemony%20Chill%20Tea_11zon.jpg?alt=media&token=760299eb-ea47-4a30-ae22-b3785c74ba38",
+      "category": "drink"
+    },
+    {
+      "title": "Orange Juice",
+      "description": "Orange Juice adalah minuman klasik yang dibuat dari perasan buah jeruk segar, menawarkan rasa manis alami dan keasaman yang menyegarkan. Setiap gelas Orange Juice kaya akan vitamin C dan nutrisi penting lainnya, menjadikannya pilihan yang sehat dan lezat untuk memulai hari Anda. Kesegaran jeruk yang alami memberikan sensasi yang menyegarkan dan menyehatkan di setiap tegukan. Minuman ini dibuat dengan memeras jeruk segar hingga mendapatkan jus yang murni, kemudian disaring untuk menghilangkan ampas dan biji, sehingga menghasilkan jus yang halus dan menyegarkan. Orange Juice sering disajikan dingin dengan es batu atau langsung dari lemari pendingin untuk menjaga kesegarannya. Beberapa varian juga dapat ditambahkan sedikit madu atau gula untuk menyeimbangkan keasaman jika diinginkan. Orange Juice tidak hanya cocok untuk sarapan tetapi juga sempurna sebagai minuman penyegar kapan saja sepanjang hari. Dihiasi dengan irisan jeruk atau daun mint, jus ini tidak hanya memanjakan lidah tetapi juga menyenangkan mata. Minuman ini adalah pilihan yang sempurna untuk mereka yang mencari keseimbangan antara rasa yang lezat dan manfaat kesehatan yang melimpah.",
+      "rate": "4.2",
+      "price": "26000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/drink%2Forange_juice_11zon%20(1).jpg?alt=media&token=f8cd102e-36c4-46e6-8d2e-b270df0b3a2f",
+      "category": "hot_deals"
+    },
+    {
+      "title": "Top Shelf Brew",
+      "description": "Top Shelf Brew adalah kopi premium yang diracik dengan biji kopi berkualitas tinggi, menawarkan cita rasa yang kaya dan kompleks. Setiap cangkir Top Shelf Brew diseduh dengan perhatian terhadap detail, memastikan setiap tegukan memberikan pengalaman kopi yang luar biasa. Rasa kopi yang dalam dan aroma yang memikat membuatnya menjadi pilihan favorit bagi para penikmat kopi sejati. Proses pembuatan Top Shelf Brew dimulai dengan pemilihan biji kopi terbaik dari kebun-kebun kopi terkenal di dunia. Biji kopi ini kemudian dipanggang dengan sempurna untuk mengeluarkan aroma dan rasa yang optimal. Setelah dipanggang, biji kopi digiling dan diseduh menggunakan metode yang memastikan ekstraksi penuh dari semua rasa dan aroma yang diinginkan. Hasilnya adalah kopi dengan kekayaan rasa yang seimbang dan keharuman yang menggoda. Top Shelf Brew dapat dinikmati hitam untuk merasakan kekayaan rasa sejati atau dengan tambahan susu dan gula sesuai selera. Minuman ini ideal untuk dinikmati di pagi hari untuk memulai hari dengan penuh energi atau di sore hari sebagai pendamping waktu bersantai. Dengan kualitasnya yang premium dan rasa yang memikat, Top Shelf Brew adalah kopi yang layak dinikmati oleh semua pecinta kopi yang menghargai kualitas dan cita rasa yang tinggi.",
+      "rate": "4.4",
+      "price": "27000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/drink%2FTop%20Shelf%20Brew_11zon.jpg?alt=media&token=53ddacbc-356c-416b-9e83-cc3cdd8a9354",
+      "category": "hot_deals"
+    },
+    {
+      "title": "Tropical Citrus Cooler",
+      "description": "Tropical Citrus Cooler adalah minuman yang menawarkan kesegaran dan kelezatan dari buah-buahan tropis dengan sentuhan citrus yang menggoda. Dibuat dari campuran jus jeruk, lemon, limau, dan dilengkapi dengan jus nanas atau mangga, minuman ini membawa Anda ke suasana tropis yang menyenangkan dalam setiap tegukan. Rasa manis alami dari buah-buahan berpadu sempurna dengan keasaman citrus, menciptakan pengalaman minum yang seimbang dan menyegarkan. Minuman ini biasanya disajikan dingin dengan es batu untuk menjaga kesegarannya. Proses pembuatannya melibatkan pencampuran berbagai jus buah segar yang kemudian dikocok dengan es dan sedikit pemanis alami seperti madu atau sirup agave, jika diinginkan. Untuk sentuhan ekstra, minuman ini sering dihiasi dengan irisan buah segar seperti jeruk, lemon, dan nanas, serta daun mint yang menambah aroma dan keindahan visual. Tropical Citrus Cooler bukan hanya minuman yang menyegarkan, tetapi juga kaya akan vitamin dan antioksidan yang baik untuk kesehatan. Minuman ini adalah pilihan yang sempurna untuk dinikmati di hari-hari panas, baik saat bersantai di pantai, berpesta di kebun, atau hanya bersantai di rumah. Dengan perpaduan rasa yang menyegarkan dan manfaat kesehatan yang melimpah, Tropical Citrus Cooler adalah cara terbaik untuk menikmati cita rasa tropis setiap hari.",
+      "rate": "4.3",
+      "price": "22000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/drink%2FTropical%20Citrus%20Cooler_11zon.jpg?alt=media&token=8bb7a44b-8e0d-4eb2-b5fc-842c575a3861",
+      "category": "drink"
+    },
+    {
+      "title": "Yogurt Fruit Medley",
+      "description": "yogurt dan manis alami dari buah-buahan, menciptakan pengalaman makan yang menyegarkan dan memuaskan. Setiap suapan memberikan kombinasi tekstur yang menarik, dari kelembutan yogurt hingga kekenyalan buah-buahan segar. Pembuatan Yogurt Fruit Medley dimulai dengan memilih yogurt berkualitas tinggi, baik itu yogurt plain, Greek yogurt, atau yogurt beraroma vanila, sesuai dengan selera. Yogurt ini kemudian dilapisi dengan berbagai buah segar seperti stroberi, blueberry, kiwi, mangga, dan anggur. Buah-buahan ini dipotong kecil-kecil dan disusun dengan artistik di atas yogurt, menciptakan tampilan yang menarik dan menggugah selera. Untuk menambah rasa dan tekstur, kadang-kadang ditambahkan granola, kacang-kacangan, atau sedikit madu. Yogurt Fruit Medley adalah pilihan yang sempurna untuk sarapan sehat, camilan tengah hari, atau hidangan penutup yang ringan namun memuaskan. Selain enak, hidangan ini juga kaya akan nutrisi penting seperti protein, vitamin, dan serat, menjadikannya pilihan yang baik untuk menjaga kesehatan dan energi sepanjang hari. Dengan kesederhanaan dalam penyajian dan kelezatan yang melimpah, Yogurt Fruit Medley adalah cara yang tepat untuk menikmati manfaat yogurt dan buah-buahan segar dalam satu hidangan.",
+      "rate": "4.3",
+      "price": "29000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/drink%2FYogurt%20Fruit%20Medley_11zon.jpg?alt=media&token=67d45174-4faa-469f-ab51-7ea4724586db",
+      "category": "drink"
+    },
+    {
+      "title": "Berry Bliss Sundae",
+      "description": "Berry Bliss Sundae adalah hidangan penutup yang memanjakan lidah dengan kombinasi sempurna antara es krim creamy dan berbagai jenis buah beri segar. Sundae ini dibuat dengan lapisan es krim vanilla yang lembut dan disertai dengan stroberi, blueberry, dan raspberry segar yang memberikan rasa manis dan sedikit asam. Setiap suapan memberikan perpaduan rasa yang kaya dan menyegarkan, menciptakan pengalaman makan yang benar-benar memuaskan. Pembuatan Berry Bliss Sundae dimulai dengan menempatkan beberapa scoop es krim vanilla di dalam mangkuk atau gelas tinggi. Di atas es krim, dituangkan saus berry yang terbuat dari buah beri yang dimasak dengan sedikit gula hingga menghasilkan saus yang kental dan beraroma. Buah beri segar kemudian ditambahkan sebagai hiasan, memberikan tekstur dan rasa tambahan yang alami dan lezat. Untuk menambah kelezatan, sundae ini sering ditambahkan dengan whipped cream dan taburan kacang cincang atau chocolate chips. Berry Bliss Sundae adalah pilihan yang sempurna untuk penutup makan malam atau sebagai camilan manis di sore hari. Hidangan ini tidak hanya enak tetapi juga kaya akan vitamin dari buah beri, menjadikannya pilihan yang lebih sehat dibandingkan dengan hidangan penutup lainnya. Dengan kombinasi es krim yang creamy dan buah beri yang segar, Berry Bliss Sundae adalah cara yang lezat untuk menikmati hari yang cerah atau untuk memanjakan diri setelah hari yang panjang.",
+      "rate": "4.6",
+      "price": "42000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/ice_cream%2FBerry%20Bliss%20Sundae_11zon.jpg?alt=media&token=190b31dd-a5b1-41bd-b33b-678f544b51e9",
+      "category": "ice_cream"
+    },
+    {
+      "title": "Creamy Chocolate Dreamland",
+      "description": "Creamy Chocolate Dreamland adalah mimpi bagi para pecinta cokelat, menawarkan kelezatan yang kaya dan tekstur yang creamy dalam setiap gigitan. Hidangan ini terdiri dari lapisan es krim cokelat premium yang lembut, dihiasi dengan saus cokelat pekat yang mengalir di atasnya, dan ditaburi dengan potongan cokelat serta kacang panggang yang renyah. Setiap elemen dalam sundae ini dirancang untuk memberikan pengalaman rasa cokelat yang intens dan memuaskan. Proses pembuatan Creamy Chocolate Dreamland dimulai dengan menyiapkan es krim cokelat berkualitas tinggi yang dibuat dengan cokelat murni dan bahan-bahan terbaik. Es krim ini kemudian disusun dalam mangkuk atau gelas tinggi, dan dilapisi dengan saus cokelat yang kaya dan kental. Untuk menambah tekstur dan rasa, potongan cokelat, kacang almond panggang, dan mungkin sedikit marshmallow ditambahkan di atasnya. Hidangan ini kemudian disempurnakan dengan whipped cream dan taburan bubuk kakao atau chocolate shavings untuk tampilan yang menarik dan rasa yang lebih mendalam. Creamy Chocolate Dreamland adalah pilihan sempurna untuk penutup makan malam spesial, pesta ulang tahun, atau kapan saja Anda ingin memanjakan diri dengan sesuatu yang istimewa. Hidangan ini tidak hanya memanjakan selera tetapi juga memberikan kepuasan emosional dengan rasa cokelat yang kaya dan tekstur yang lembut. Setiap suapan membawa Anda lebih dekat ke dunia impian cokelat, membuat Creamy Chocolate Dreamland menjadi pilihan utama bagi setiap pecinta cokelat.",
+      "rate": "4.5",
+      "price": "47000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/ice_cream%2FCreamy%20Chocolate%20Dreamland_11zon.jpg?alt=media&token=b44dc9bf-30fe-4a17-a8d4-dd11ca2b57f4",
+      "category": "ice_cream"
+    },
+    {
+      "title": "Frosty Fruit Delight",
+      "description": "Frosty Fruit Delight adalah hidangan penutup yang menyegarkan dan menyehatkan, menggabungkan es krim atau sorbet dengan berbagai macam buah segar dan topping yang menggugah selera. Hidangan ini menawarkan keseimbangan sempurna antara manis dan asam dari buah-buahan, serta tekstur lembut dari es krim atau sorbet. Setiap gigitan memberikan sensasi dingin yang menyegarkan dan rasa buah yang alami, membuatnya menjadi pilihan yang ideal untuk hari-hari panas. Pembuatan Frosty Fruit Delight dimulai dengan memilih es krim vanilla atau sorbet buah favorit Anda. Es krim atau sorbet ini kemudian ditempatkan dalam mangkuk atau gelas tinggi, dan dihiasi dengan berbagai jenis buah segar seperti mangga, kiwi, stroberi, blueberry, dan anggur. Untuk menambah dimensi rasa, saus buah atau sirup alami seperti sirup maple atau madu sering ditambahkan di atasnya. Selain itu, taburan granola, kacang cincang, atau kelapa parut dapat ditambahkan untuk memberikan tekstur ekstra dan rasa yang lebih kaya. Frosty Fruit Delight tidak hanya lezat tetapi juga kaya akan nutrisi penting dari buah-buahan, menjadikannya pilihan penutup yang lebih sehat. Hidangan ini cocok dinikmati kapan saja Anda ingin sesuatu yang manis namun tetap ingin menjaga asupan nutrisi yang baik. Dengan kombinasi rasa yang menyegarkan dan penampilan yang menarik, Frosty Fruit Delight adalah cara yang sempurna untuk menikmati buah-buahan dengan sentuhan es krim atau sorbet yang dingin dan lembut.",
+      "rate": "4.4",
+      "price": "44000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/ice_cream%2FFrosty%20Fruit%20Delight_11zon.jpg?alt=media&token=5b99a6f9-4b65-45c5-a2f9-51db05027c96",
+      "category": "ice_cream"
+    },
+    {
+      "title": "Gelato Glazed Brioche",
+      "description": "Gelato Glazed Brioche adalah hidangan penutup yang mewah dan inovatif, menggabungkan kelembutan brioche dengan gelato yang kaya dan flavorful. Hidangan ini terdiri dari roti brioche yang empuk dan sedikit manis, yang dipanggang hingga keemasan, lalu diisi dengan gelato beraroma pilihan Anda. Setiap gigitan menyajikan kombinasi unik antara tekstur roti yang renyah di luar dan lembut di dalam dengan kelezatan gelato yang dingin dan creamy. Proses pembuatan Gelato Glazed Brioche dimulai dengan memanggang roti brioche hingga permukaannya garing dan harum. Setelah itu, roti ini dibelah dan diisi dengan scoop gelato yang sudah dipilih, seperti vanilla, cokelat, pistachio, atau rasa buah-buahan. Untuk menambah kemewahan, brioche yang sudah diisi gelato kemudian dilapisi dengan glaze atau saus pilihan, seperti saus karamel, saus cokelat, atau sirup buah. Hidangan ini disajikan hangat dengan gelato yang mulai meleleh, menciptakan kontras suhu dan tekstur yang menggugah selera. Gelato Glazed Brioche adalah pilihan yang sempurna untuk mereka yang mencari hidangan penutup yang tidak biasa dan penuh dengan cita rasa. Hidangan ini ideal dinikmati setelah makan malam sebagai penutup yang istimewa atau sebagai camilan manis di sore hari. Dengan perpaduan antara roti brioche yang lembut dan gelato yang creamy, Gelato Glazed Brioche memberikan pengalaman kuliner yang unik dan memanjakan, menjadikannya favorit di kalangan pecinta makanan penutup.",
+      "rate": "4.3",
+      "price": "48000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/ice_cream%2FGelato%20Glazed%20Brioche_11zon.jpg?alt=media&token=672475cc-01a9-47d4-83ce-5a7854fb1927",
+      "category": "ice_cream"
+    },
+    {
+      "title": "Sundae Supreme Treat",
+      "description": "Sundae Supreme Treat adalah sajian es krim yang spektakuler, dirancang untuk memanjakan semua indra dengan berbagai lapisan rasa dan tekstur. Hidangan ini menggabungkan beberapa scoop es krim berkualitas tinggi dengan berbagai topping lezat, seperti saus cokelat, karamel, dan buah segar, serta ditambah dengan whipped cream, kacang cincang, dan ceri di atasnya. Setiap lapisan memberikan pengalaman rasa yang berbeda, menjadikan setiap suapan sebagai petualangan kuliner yang menyenangkan. Proses pembuatan Sundae Supreme Treat dimulai dengan memilih beberapa rasa es krim yang berbeda untuk menciptakan kombinasi yang harmonis. Es krim ini kemudian disusun dalam mangkuk besar atau gelas tinggi, di setiap lapisan diselingi dengan saus seperti cokelat panas, karamel, atau strawberry. Setelah itu, ditambahkan berbagai topping seperti potongan buah, kacang panggang, atau biskuit hancur untuk memberikan tekstur yang beragam. Hidangan ini kemudian diselesaikan dengan whipped cream yang melimpah, taburan kacang cincang, dan ceri maraschino yang cerah di atasnya. Sundae Supreme Treat adalah pilihan sempurna untuk merayakan momen spesial, berbagi dengan teman dan keluarga, atau hanya sebagai indulgence pribadi. Hidangan ini tidak hanya memanjakan lidah dengan rasa yang kaya dan tekstur yang beragam, tetapi juga memanjakan mata dengan tampilannya yang menggugah selera. Dengan kombinasi es krim yang creamy, saus yang manis, dan topping yang berlimpah, Sundae Supreme Treat adalah puncak dari kenikmatan es krim yang sejati.",
+      "rate": "4.3",
+      "price": "43000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/ice_cream%2FSundae%20Supreme%20Treat_11zon%20(1).jpg?alt=media&token=4973d569-4f1c-4027-b6d3-a0197e91dfc2",
+      "category": "ice_cream"
+    },
+    {
+      "title": "Crispy Garlic Fried Chicken",
+      "description": "Crispy Garlic Fried Chicken adalah hidangan yang memikat dengan kombinasi sempurna antara ayam goreng yang renyah dan bumbu garlic yang kaya rasa. Potongan daging ayam yang lezat dilapisi dengan tepung crispy yang dibumbui dengan rempah-rempah dan bawang putih, kemudian digoreng hingga keemasan. Hasilnya adalah ayam yang garing di luar dan lembut di dalam, dengan aroma dan rasa bawang putih yang menggoda selera. Hidangan ini sering disajikan dengan saus sambal atau saus tomat untuk menambahkan sedikit kepedasan dan manisnya, serta dipadukan dengan nasi atau kentang goreng untuk melengkapi cita rasa yang lezat.",
+      "rate": "4.2",
+      "price": "125000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/meat%2FCrispy%20Garlic%20Fried%20Chicken_11zon.jpg?alt=media&token=96c3a672-9fd3-438c-be79-ee3df6faf6f2",
+      "category": "meat"
+    },
+    {
+      "title": "Golden Browned Meat with Potato Fries",
+      "description": "Golden Browned Meat with Potato Fries adalah hidangan yang menggoda selera dengan perpaduan daging yang dipanggang sempurna dan kentang goreng yang renyah. Potongan daging, seperti daging sapi atau domba, dipanggang hingga keemasan di luar dan tetap juicy di dalam, menciptakan cita rasa yang mendalam dan lezat. Disajikan bersama dengan kentang goreng yang dipotong dadu dan digoreng hingga keemasan, hidangan ini merupakan pilihan yang memuaskan bagi mereka yang menginginkan hidangan yang sederhana namun memuaskan. Hidangan ini sering disajikan dengan saus gravy atau saus bawang putih untuk menambahkan sedikit kelembutan dan kelezatan pada setiap gigitannya.",
+      "rate": "4.7",
+      "price": "122000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/meat%2FGolden%20Browned%20Meat%20with%20Potato%20Fries_11zon.jpg?alt=media&token=0dc39929-34e7-4a21-9c73-e494ba7c8460",
+      "category": "meat"
+    },
+    {
+      "title": "Golden Crispy Delight with Vegetables",
+      "description": "Golden Crispy Delight with Vegetables adalah hidangan yang menampilkan tekstur yang kaya dan rasa yang lezat dari daging yang digoreng hingga keemasan dan berbagai macam sayuran yang segar. Potongan daging, seperti ayam atau ikan, dilapisi dengan tepung crispy dan digoreng hingga keemasan, menciptakan lapisan renyah di luar dan juicy di dalam. Disajikan dengan berbagai macam sayuran seperti brokoli, wortel, dan kacang polong yang direbus atau ditumis dengan sedikit bumbu, hidangan ini merupakan pilihan yang sehat dan memuaskan. Kesegaran sayuran yang berpadu dengan kelezatan daging yang garing menciptakan pengalaman makan yang lengkap dan memuaskan.",
+      "rate": "4.5",
+      "price": "128000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/meat%2FGolden%20Crispy%20Delight%20with%20Vegetables_11zon.jpg?alt=media&token=c20d2922-6bc9-4e4a-b3f7-a9600a768780",
+      "category": "hot_deals"
+    },
+    {
+      "title": "Gourmet Culinary Steak",
+      "description": "Gourmet Culinary Steak adalah hidangan yang menggoda selera dengan kelezatan daging sapi pilihan yang dipanggang sempurna. Potongan daging sapi yang dipilih secara khusus ini dipanggang hingga mencapai tingkat kematangan yang diinginkan oleh pelanggan, menciptakan cita rasa yang mendalam dan juicy. Hidangan ini sering disajikan dengan saus bernapas, seperti saus black pepper atau mushroom, untuk menambahkan dimensi rasa yang lebih kaya. Disajikan dengan pilihan sampingan seperti mashed potatoes, grilled vegetables, atau creamed spinach, Gourmet Culinary Steak adalah pilihan yang sempurna untuk mereka yang menghargai cita rasa dan kualitas tinggi dalam hidangan mereka.",
+      "rate": "4.1",
+      "price": "121000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/meat%2FGourmet%20Culinary%20Steak_11zon.jpg?alt=media&token=b253d394-87d0-4c02-9c88-eae3867285ed",
+      "category": "meat"
+    },
+    {
+      "title": "Grilled Steak Feast with Fries and Berries",
+      "description": "Grilled Steak Feast with Fries and Berries adalah hidangan yang memanjakan lidah dengan kombinasi daging sapi panggang yang juicy, kentang goreng yang renyah, dan buah beri segar yang menyegarkan. Potongan daging sapi yang dipanggang di atas panggangan hingga mencapai kematangan yang sempurna, kemudian disajikan bersama dengan kentang goreng yang digoreng hingga keemasan. Untuk memberikan sentuhan segar dan manis, hidangan ini juga disertai dengan campuran buah beri segar seperti stroberi, blueberry, dan raspberry. Kombinasi antara cita rasa daging yang gurih, kentang goreng yang renyah, dan kesegaran buah beri menciptakan pengalaman makan yang lengkap dan memuaskan.",
+      "rate": "4.7",
+      "price": "128000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/meat%2FGrilled%20Steak%20Feast%20with%20Fries%20and%20Berries_11zon.jpg?alt=media&token=c463cdb4-8e86-46cf-85b3-b65fb8a5ac43",
+      "category": "meat"
+    },
+    {
+      "title": "Juicy Beef Steak with Greenery",
+      "description": "Juicy Beef Steak with Greenery adalah hidangan yang memukau dengan kesederhanaannya yang elegan dan cita rasanya yang luar biasa. Potongan daging sapi yang dipilih secara khusus dipanggang dengan sempurna hingga mencapai tingkat kematangan yang diinginkan, menciptakan cita rasa yang juicy dan memanjakan lidah. Namun, yang membuat hidangan ini benar-benar istimewa adalah sentuhan segar dari greenery, seperti daun selada, bayam, dan daun basil, yang menyertai hidangan tersebut. Kesegaran dan kelezatan dari greenery tersebut memberikan dimensi tambahan pada hidangan, menciptakan keseimbangan yang sempurna antara cita rasa gurih dari daging sapi dan kelezatan serta kesegaran dari greenery yang menyertainya. Setiap suapan dari Juicy Beef Steak with Greenery memberikan pengalaman kuliner yang menggugah selera dan memuaskan. Potongan daging yang juicy dan lembut bertemu dengan segarnya greenery, menciptakan paduan rasa yang memukau di lidah. Kesederhanaan hidangan ini menghadirkan kelezatan yang tak tertandingi, membuatnya menjadi pilihan yang sempurna untuk dinikmati dalam setiap kesempatan, dari makan malam romantis hingga pertemuan santai dengan teman-teman. Juicy Beef Steak with Greenery bukan hanya sebuah hidangan, tetapi juga sebuah pengalaman kuliner yang menggembirakan. Dengan perpaduan yang sempurna antara cita rasa gurih dari daging sapi yang juicy dan kesegaran serta kelezatan dari greenery yang menyertainya, hidangan ini memenuhi segala keinginan untuk makanan yang lezat dan memuaskan.",
+      "rate": "4.2",
+      "price": "124000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/meat%2FJuicy%20Beef%20Steak%20with%20Greenery_11zon.jpg?alt=media&token=90332fbd-cbae-4153-8431-bf495b8427d0",
+      "category": "meat"
+    },
+    {
+      "title": "Prime Beef Delight",
+      "description": "Prime Beef Delight adalah pilihan istimewa bagi para pecinta daging sapi yang menginginkan pengalaman kuliner yang luar biasa. Potongan daging sapi pilihan dipilih secara khusus untuk menciptakan hidangan yang memukau ini. Dipanggang dengan sempurna hingga mencapai tingkat kematangan yang diinginkan, setiap gigitan dari Prime Beef Delight menawarkan cita rasa yang juicy, lembut, dan memikat. Ditambah dengan bumbu-bumbu khas yang memberikan tambahan aroma dan cita rasa yang kaya, hidangan ini menghadirkan kenikmatan yang tiada tara bagi para penikmatnya. Hidangan Prime Beef Delight tidak hanya menggoda selera, tetapi juga mengundang mata dengan presentasinya yang menawan. Potongan daging sapi yang dipanggang dengan sempurna disajikan dengan indah, menghadirkan gambaran dari kelezatan yang akan dinikmati. Aroma harum yang menjalar dan tampilan yang menggugah selera ini membuat hidangan ini menjadi pusat perhatian di setiap meja makan. Disajikan dengan sisi-sisi yang dipilih dengan cermat, seperti kentang panggang, sayuran hijau yang segar, atau saus bernapas yang melengkapi cita rasa, Prime Beef Delight menjadi pilihan yang sempurna untuk setiap kesempatan istimewa. Prime Beef Delight bukan hanya sebuah hidangan, tetapi juga sebuah pengalaman kuliner yang memuaskan. Dari aroma harum yang memikat hingga sensasi rasa yang luar biasa di lidah, setiap elemen dari hidangan ini dirancang untuk memberikan kepuasan yang tiada tara bagi para penikmatnya. Tak heran jika Prime Beef Delight sering menjadi pilihan utama bagi mereka yang menginginkan kenikmatan yang tak terlupakan dalam setiap suapan.",
+      "rate": "4.6",
+      "price": "122000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/meat%2FPrime%20Beef%20Delight_11zon.jpg?alt=media&token=a6b8c166-819b-428f-bbd7-2519d35030a2",
+      "category": "meat"
+    },
+    {
+      "title": "Savory Marinated Meat Platter",
+      "description": "Savory Marinated Meat Platter adalah sebuah persembahan kuliner yang menggoda dengan paduan cita rasa gurih dan aroma rempah yang meresap. Potongan-potongan daging sapi, domba, dan ayam dipilih secara hati-hati dan direndam dalam campuran bumbu marinated yang kaya rasa. Proses perendaman yang teliti memastikan setiap serat daging terasa lembut dan penuh dengan cita rasa yang meresap hingga ke dalam. Ketika dipanggang, aroma harum dari bumbu marinade memenuhi udara, mengundang selera untuk segera menikmati hidangan yang menjanjikan sensasi gurih yang memanjakan lidah. Savory Marinated Meat Platter disajikan dalam tampilan yang menggugah selera, dengan potongan-potongan daging yang dipanggang dengan sempurna dan tersusun rapi di atas piring besar. Akomodasi dengan sisi-sisi yang beragam, seperti nasi lembut, kentang panggang, dan sayuran segar, memperkaya pengalaman menyantap hidangan ini. Kelembutan dan kelezatan dari daging yang telah direndam dalam bumbu marinated menciptakan harmoni cita rasa yang memikat, membuat hidangan ini menjadi pilihan yang sempurna untuk dinikmati bersama keluarga dan teman-teman. Savory Marinated Meat Platter bukan hanya sebuah hidangan, tetapi juga sebuah perjalanan rasa yang tak terlupakan. Setiap suapan menghadirkan sensasi nikmat yang menggoda, menciptakan pengalaman makan yang melampaui sekadar kepuasan. Dari aroma menggugah hingga cita rasa yang mendalam, hidangan ini tidak hanya memenuhi ekspektasi, tetapi juga menghadirkan kepuasan yang tiada tara bagi para penikmatnya.",
+      "rate": "4.1",
+      "price": "125000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/meat%2FSavory%20Marinated%20Meat%20Platter_11zon.jpg?alt=media&token=bd3f163f-bd40-42bb-b06d-99d13c246806",
+      "category": "meat"
+    },
+    {
+      "title": "Sizzling Grilled Meat Delight",
+      "description": "Sizzling Grilled Meat Delight adalah hidangan yang memikat dengan cita rasa gurih dan aroma harum yang menggoda dari daging yang dipanggang di atas bara api. Potongan-potongan daging sapi, domba, dan ayam yang dipilih secara cermat dipanggang dengan sempurna, menciptakan lapisan luar yang renyah dan juicy di dalamnya. Ketika disajikan di atas loyang panas, hidangan ini menimbulkan suara mendesis yang menambahkan daya tarik visual dan menggoda selera. Sizzling Grilled Meat Delight disajikan dalam tampilan yang mengundang, dengan potongan-potongan daging yang disusun rapi di atas loyang yang masih membara. Aroma harum dari daging yang dipanggang dan tampilan yang menarik membuat setiap suapan menjadi lebih menggugah selera. Disajikan dengan sisi-sisi yang dipilih secara hati-hati, seperti kentang bakar, jagung manis panggang, atau saus BBQ yang kaya rasa, hidangan ini menghadirkan pengalaman makan yang luar biasa untuk dinikmati bersama orang-orang terkasih. Sizzling Grilled Meat Delight adalah pilihan yang sempurna bagi pecinta daging yang menginginkan pengalaman makan yang memuaskan dan memuaskan. Dari aroma yang menggoda hingga rasa yang memanjakan lidah, hidangan ini menjanjikan kesenangan tak terlupakan dalam setiap suapannya. Dengan kombinasi cita rasa yang lezat dan presentasi yang menggugah selera, Sizzling Grilled Meat Delight tidak hanya memuaskan selera, tetapi juga memanjakan semua indra.",
+      "rate": "4.2",
+      "price": "127000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/meat%2FSizzling%20Grilled%20Meat%20Delight_11zon.jpg?alt=media&token=d80fa537-97f7-4d5b-b4c5-9fd88beb302f",
+      "category": "hot_deals"
+    },
+    {
+      "title": "Tempura-style Crispy Meat",
+      "description": "Nikmati kelezatan Tempura-Style Crispy Meat kami, hidangan yang menggabungkan sensasi renyah dan gurih dalam setiap gigitan. Daging pilihan yang lembut dibalut dengan adonan tempura yang ringan dan garing, menciptakan tekstur yang sangat krispi di luar namun tetap juicy di dalam. Setiap potongan daging diproses dengan teliti, dimarinasi menggunakan campuran bumbu dan rempah pilihan untuk menghasilkan cita rasa yang kaya dan menggugah selera. Proses pembuatan Tempura-Style Crispy Meat melibatkan teknik memasak yang cermat. Daging pertama-tama dibalut dengan adonan tempura yang terbuat dari campuran tepung, telur, dan air dingin, lalu digoreng hingga berwarna keemasan. Adonan tempura yang tipis dan renyah ini tidak hanya memberikan tekstur yang menyenangkan, tetapi juga membantu menjaga kelembutan daging di dalamnya. Hasil akhirnya adalah potongan daging yang menggoda dengan lapisan luar yang renyah dan bagian dalam yang tetap lembut dan juicy, memberikan pengalaman makan yang tak terlupakan. Hidangan Tempura-Style Crispy Meat kami disajikan dengan sentuhan yang membuatnya semakin istimewa. Biasanya dilengkapi dengan saus celup khas yang berpadu sempurna dengan rasa gurih dari daging yang digoreng. Selain itu, kami menyajikan potongan sayuran segar dan irisan lemon untuk memberikan keseimbangan rasa yang segar dan asam, sehingga menambah kesegaran hidangan ini. Cocok untuk dijadikan hidangan utama atau sebagai camilan bersama keluarga dan teman, Tempura-Style Crispy Meat adalah pilihan sempurna untuk menikmati cita rasa Jepang yang autentik dengan sentuhan modern.",
+      "rate": "4.4",
+      "price": "129000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/meat%2FTempura-style%20Crispy%20Meat_11zon.jpg?alt=media&token=197b9e0a-8ab3-4c78-a9d6-76737cf0f8ea",
+      "category": "meat"
+    },
+    {
+      "title": "Tender Chicken Special",
+      "description": "Rasakan kepuasan maksimal dengan Tender Chicken Special kami, sebuah hidangan yang mendefinisikan kembali kelezatan kuliner dengan rasa kaya dan tekstur yang lembut. Setiap potongan ayam direndam dengan teliti untuk memastikan kelembutan maksimal, memungkinkan daging menyerap berbagai rempah dan bumbu yang menyatu dalam setiap gigitan dengan cita rasa yang tak tertahankan. Hasilnya adalah ayam yang tidak hanya lembut dan juicy, tetapi juga penuh dengan rasa yang akan membuat Anda ketagihan. Persiapan Tender Chicken Special kami adalah bukti komitmen kami terhadap kualitas dan cita rasa. Ayam dimasak perlahan hingga sempurna, mengunci jus alaminya dan menciptakan hidangan yang lembut dan penuh rasa yang meleleh di mulut. Proses marinasi melibatkan campuran bahan yang cermat, termasuk bawang putih, jahe, dan sentuhan citrus, yang bersama-sama menciptakan simfoni rasa yang melengkapi kekayaan alami ayam. Sentuhan akhir berupa saus ringan, menambahkan sedikit rasa manis yang menyeimbangkan profil gurih dari hidangan ini. Tender Chicken Special kami bukan hanya sekadar makanan; ini adalah pengalaman yang dirancang untuk memanjakan semua indera Anda. Disajikan dengan sisi sayuran segar yang dikukus dan seporsi nasi harum, hidangan ini adalah kenikmatan kuliner yang lengkap. Warna-warna cerah dan aroma yang menggoda yang menyertai ayam menciptakan presentasi yang memikat yang pasti akan mengesankan. Sempurna untuk makan malam keluarga maupun acara istimewa, Tender Chicken Special kami adalah bukti seni memasak dan kegembiraan menikmati hidangan yang benar-benar dipersiapkan dengan baik.",
+      "rate": "4.4",
+      "price": "124000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/meat%2FTender%20Chicken%20Special_11zon.jpg?alt=media&token=294f04c9-cea7-4df3-abca-967b5981c089",
+      "category": "meat"
+    },
+    {
+      "title": "Chicken Noodle Bliss",
+      "description": "Nikmati kelezatan Chicken Noodle Bliss kami, hidangan yang menggabungkan mie yang kenyal dengan potongan ayam yang juicy dan penuh rasa. Setiap mangkuk menghadirkan perpaduan sempurna antara mie yang dimasak al dente dan ayam yang dimarinasi dengan bumbu rahasia, menciptakan cita rasa yang kaya dan memanjakan lidah. Tambahan sayuran segar seperti wortel, daun bawang, dan kubis memberikan sentuhan warna dan rasa yang seimbang, menjadikan Chicken Noodle Bliss pilihan yang sempurna untuk setiap kesempatan. Proses persiapan Chicken Noodle Bliss dimulai dengan pemilihan bahan-bahan berkualitas tinggi. Ayam dipotong dengan hati-hati dan dimarinasi hingga meresap dengan bumbu khas yang kaya rasa. Mie kemudian direbus hingga mencapai tekstur yang tepat sebelum diaduk dengan ayam dan sayuran segar. Sentuhan terakhir adalah saus spesial yang melengkapi seluruh hidangan, memberikan rasa gurih dan manis yang harmonis di setiap suapan. Chicken Noodle Bliss tidak hanya memanjakan lidah tetapi juga menyenangkan mata. Disajikan dalam mangkuk yang cantik, hidangan ini menampilkan kombinasi warna yang menggugah selera dari mie kuning keemasan, ayam kecokelatan, dan sayuran segar berwarna-warni. Setiap elemen dihidangkan dengan porsi yang pas, memastikan Anda mendapatkan kenikmatan maksimal di setiap suapan. Hidangan ini cocok untuk makan siang atau malam, serta sempurna dinikmati bersama keluarga dan teman-teman.",
+      "rate": "4.4",
+      "price": "75000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/noodle%2FChicken%20Noodle%20Bliss_11zon.jpg?alt=media&token=d3fa86e1-bd83-499a-b5d9-1f3175afcbfc",
+      "category": "noodles"
+    },
+    {
+      "title": "Chicken Noodle Soup",
+      "description": "Hangatkan tubuh dan hati Anda dengan Chicken Noodle Soup kami, sup yang menyajikan perpaduan sempurna antara kaldu ayam yang gurih dengan mie lembut dan potongan ayam yang juicy. Setiap mangkuk sup ini mengandung kaldu yang dimasak perlahan untuk mengeluarkan semua rasa alami dari ayam dan bumbu-bumbu aromatik seperti bawang putih, jahe, dan seledri. Tambahan mie yang kenyal dan potongan sayuran segar seperti wortel dan daun bawang menjadikan sup ini pilihan yang menenangkan dan menyehatkan. Proses pembuatan Chicken Noodle Soup kami dimulai dengan pembuatan kaldu ayam yang mendalam. Ayam dimasak bersama bumbu-bumbu hingga menghasilkan kaldu yang kaya dan beraroma. Mie kemudian dimasukkan ke dalam kaldu panas, menyerap semua kelezatan dari kaldu. Potongan ayam yang lembut dan sayuran segar ditambahkan ke dalam sup, memberikan tekstur dan rasa yang beragam di setiap suapan. Setiap mangkuk Chicken Noodle Soup adalah hasil dari proses memasak yang penuh kasih dan perhatian terhadap detail. Chicken Noodle Soup kami adalah pilihan ideal untuk menghangatkan hari-hari Anda, terutama di saat cuaca dingin atau ketika Anda membutuhkan makanan yang nyaman dan menenangkan. Disajikan dengan irisan daun bawang segar di atasnya, sup ini tidak hanya lezat tetapi juga penuh gizi. Cocok untuk dinikmati sebagai hidangan pembuka atau hidangan utama, Chicken Noodle Soup kami akan membawa kehangatan dan kebahagiaan ke meja makan Anda.",
+      "rate": "4.2",
+      "price": "74000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/noodle%2FChicken%20Noodle%20Soup_11zon.jpg?alt=media&token=2ba343e6-d3a8-4614-bfa7-b49fb7e149af",
+      "category": "noodles"
+    },
+    {
+      "title": "Meaty Pasta Medley",
+      "description": "Rasakan kekayaan rasa dengan Meaty Pasta Medley kami, hidangan pasta yang menghadirkan kombinasi sempurna antara daging yang juicy dan saus yang kaya. Setiap porsi pasta ini dibuat dengan pasta yang dimasak al dente dan disajikan dengan saus tomat yang berlimpah daging cincang yang telah dibumbui dengan sempurna. Daging sapi atau ayam yang lembut memberikan cita rasa yang dalam, sementara rempah-rempah seperti basil, oregano, dan bawang putih memberikan sentuhan aroma yang menggoda. Proses persiapan Meaty Pasta Medley dimulai dengan memasak pasta hingga mencapai tekstur yang tepat, kenyal namun lembut. Daging cincang dimasak bersama dengan bawang bombay dan bawang putih hingga harum dan matang sempurna, lalu dicampur dengan saus tomat yang kaya rasa. Saus ini kemudian dicampur dengan pasta, memastikan setiap helai pasta dilapisi dengan saus yang lezat dan daging yang juicy. Hidangan ini disajikan dengan taburan keju parmesan yang meleleh di atasnya, menambah kelezatan dan kesempurnaan rasa. Meaty Pasta Medley adalah pilihan ideal untuk makan malam yang memuaskan dan mengenyangkan. Disajikan dengan roti bawang putih yang renyah atau salad segar, hidangan ini tidak hanya memberikan kepuasan rasa tetapi juga kenikmatan visual dengan warna merah menyala dari saus tomat dan keemasan dari keju parmesan. Sempurna untuk dinikmati bersama keluarga dan teman-teman, Meaty Pasta Medley kami akan membawa kegembiraan ke setiap meja makan.",
+      "rate": "4.6",
+      "price": "77000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/noodle%2FMeaty%20Pasta%20Medley_11zon.jpg?alt=media&token=a750c668-4cd8-4c57-a0d1-afb89dce5e99",
+      "category": "noodles"
+    },
+    {
+      "title": "Rice and Noodle Combo",
+      "description": "Nikmati yang terbaik dari dua dunia dengan Rice and Noodle Combo kami, hidangan yang memadukan kelembutan nasi dan kekenyalan mie dalam satu porsi yang memuaskan. Setiap suapan menghadirkan harmoni rasa dari nasi yang dimasak sempurna dan mie yang direbus hingga kenyal, disajikan dengan pilihan topping daging ayam, sapi, atau udang yang telah dibumbui dengan rempah-rempah pilihan. Kombinasi ini memberikan variasi tekstur dan rasa yang membuat hidangan ini istimewa dan unik. Persiapan Rice and Noodle Combo dimulai dengan memasak nasi hingga pulen dan mie hingga al dente. Topping daging dipilih dengan hati-hati dan dimarinasi dengan bumbu khas yang memperkaya cita rasa. Daging kemudian dimasak hingga matang sempurna dan disajikan di atas campuran nasi dan mie. Hidangan ini dilengkapi dengan sayuran segar dan saus spesial yang menyatukan semua elemen dalam satu harmoni rasa yang seimbang dan lezat. Rice and Noodle Combo kami adalah pilihan tepat untuk Anda yang menginginkan variasi dalam satu porsi. Disajikan dengan tampilan yang menarik, hidangan ini menampilkan kombinasi warna dan tekstur yang menggugah selera. Cocok untuk makan siang maupun makan malam, Rice and Noodle Combo memberikan pengalaman kuliner yang memuaskan dan tidak terlupakan. Baik dinikmati sendiri maupun bersama keluarga dan teman-teman, hidangan ini akan menjadi favorit baru di meja makan Anda.",
+      "rate": "4.5",
+      "price": "76000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/noodle%2FRice%20and%20Noodle%20Combo_11zon.jpg?alt=media&token=7e2eaa83-47d1-44be-b53c-b12868590893",
+      "category": "noodles"
+    },
+    {
+      "title": "Savory Asian Bowl",
+      "description": "Nikmati cita rasa otentik Asia dengan Savory Asian Bowl kami, hidangan yang menggabungkan berbagai elemen masakan Asia dalam satu mangkuk yang lezat. Setiap mangkuk diisi dengan nasi putih yang pulen, potongan ayam atau daging sapi yang dimarinasi dengan sempurna, serta sayuran segar seperti wortel, kacang polong, dan brokoli. Ditambah dengan saus khas Asia yang gurih dan sedikit manis, hidangan ini menawarkan pengalaman rasa yang kaya dan memuaskan. Proses persiapan Savory Asian Bowl kami sangat teliti untuk memastikan setiap elemen mendukung kelezatan hidangan ini. Daging dipilih secara khusus dan dimarinasi dengan campuran bumbu seperti kecap asin, jahe, dan bawang putih, lalu dimasak hingga matang sempurna. Nasi dimasak hingga pulen, sementara sayuran disiapkan dengan teknik stir-fry untuk menjaga kesegaran dan kerenyahannya. Saus khas yang terbuat dari campuran kecap manis, minyak wijen, dan sedikit madu ditambahkan untuk memberikan sentuhan akhir yang sempurna. Savory Asian Bowl tidak hanya lezat tetapi juga menyehatkan. Kombinasi antara karbohidrat dari nasi, protein dari daging, dan serat dari sayuran menjadikan hidangan ini seimbang dan bergizi. Disajikan dalam mangkuk yang cantik, hidangan ini cocok untuk makan siang atau malam, baik di rumah maupun di kantor. Savory Asian Bowl kami adalah pilihan yang tepat untuk Anda yang mencari kelezatan dan keseimbangan nutrisi dalam satu hidangan praktis.",
+      "rate": "4.6",
+      "price": "72000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/noodle%2FSavory%20Asian%20Bowl_11zon.jpg?alt=media&token=c1ff7720-e44e-4b6c-91a3-9e252e8999a7",
+      "category": "noodles"
+    },
+    {
+      "title": "Savory Truffle Pasta",
+      "description": "Manjakan lidah Anda dengan kemewahan Savory Truffle Pasta, hidangan pasta yang menggabungkan rasa gurih dari truffle dengan pasta yang dimasak al dente. Setiap suapan pasta ini menghadirkan kombinasi sempurna antara kelezatan truffle yang kaya dan creamy dengan keju parmesan yang meleleh di mulut. Sentuhan garlic butter dan sedikit parsley segar memberikan aroma dan rasa yang semakin memperkaya hidangan ini, menjadikannya pilihan sempurna bagi pecinta pasta. Proses pembuatan Savory Truffle Pasta kami dimulai dengan memasak pasta hingga mencapai tekstur al dente. Saus truffle yang creamy dibuat dari campuran cream, butter, dan essence truffle berkualitas tinggi, menciptakan rasa yang lembut namun kaya. Setelah pasta dimasak, saus truffle dituangkan dan diaduk rata sehingga setiap helai pasta terbalut sempurna dengan saus. Akhirnya, hidangan ini disajikan dengan taburan keju parmesan dan parsley segar untuk menambah cita rasa dan keindahan tampilan. Savory Truffle Pasta bukan hanya hidangan yang lezat tetapi juga memanjakan mata. Warna keemasan dari saus truffle dan keju parmesan yang meleleh berpadu dengan hijau segar dari parsley, menciptakan tampilan yang menggugah selera. Hidangan ini cocok dinikmati untuk makan malam spesial atau saat Anda ingin memanjakan diri dengan sesuatu yang istimewa. Savory Truffle Pasta kami adalah perwujudan kemewahan dan kelezatan dalam satu porsi pasta yang sempurna.",
+      "rate": "4.2",
+      "price": "74000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/noodle%2FSavory%20Truffle%20Pasta_11zon.jpg?alt=media&token=566ba5e4-0770-4426-b8ce-7cd974e5ea58",
+      "category": "noodles"
+    },
+    {
+      "title": "Seafood Delight Soup Pasta",
+      "description": "Temukan kelezatan laut dengan Seafood Delight Soup Pasta kami, hidangan yang menyajikan perpaduan sempurna antara pasta yang lembut dengan berbagai jenis seafood segar dalam kuah yang kaya rasa. Setiap mangkuk diisi dengan pasta yang dimasak hingga al dente, udang, kerang, cumi-cumi, dan ikan yang dimasak dengan sempurna dalam kuah kaldu yang gurih dan harum. Bumbu-bumbu seperti bawang putih, tomat, dan parsley memberikan sentuhan rasa yang menggugah selera. Persiapan Seafood Delight Soup Pasta dimulai dengan pemilihan seafood segar yang berkualitas tinggi. Pasta dimasak hingga mencapai tekstur yang tepat, sementara kaldu dibuat dari campuran seafood dan bumbu-bumbu yang direbus perlahan hingga menghasilkan rasa yang kaya dan dalam. Seafood kemudian dimasak dalam kaldu ini, menyerap semua kelezatan dan aroma. Saus tomat dan bawang putih ditambahkan untuk memperkaya rasa, dan hidangan ini disajikan dengan taburan parsley segar di atasnya. Seafood Delight Soup Pasta adalah pilihan ideal untuk Anda yang mencari hidangan yang memadukan kelezatan dan kesegaran. Kuah kaldu yang kaya dan penuh rasa berpadu dengan pasta yang lembut dan seafood yang juicy, menciptakan pengalaman makan yang memuaskan dan menyehatkan. Disajikan dalam mangkuk yang cantik, hidangan ini tidak hanya lezat tetapi juga menarik untuk dilihat. Seafood Delight Soup Pasta kami adalah pilihan yang sempurna untuk menikmati cita rasa laut dalam setiap gigitan.",
+      "rate": "4.5",
+      "price": "76000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/noodle%2FSeafood%20Delight%20Soup%20Pasta_11zon.jpg?alt=media&token=eaa5e4e5-baab-4df1-bb7d-beee4d250ad7",
+      "category": "hot_deals"
+    },
+    {
+      "title": "Black Plate Rice Dish",
+      "description": "Nikmati kelezatan dan presentasi yang elegan dengan Black Plate Rice Dish kami, hidangan nasi yang disajikan di atas piring hitam yang menawan. Nasi yang pulen dan lezat ini dipadukan dengan berbagai pilihan lauk seperti ayam, daging sapi, atau seafood yang dimasak dengan bumbu khas. Sentuhan sayuran segar seperti wortel, brokoli, dan jagung menambah warna dan nutrisi, menjadikan hidangan ini tidak hanya memanjakan lidah tetapi juga mata. Proses persiapan Black Plate Rice Dish sangat teliti, dimulai dari pemilihan bahan-bahan berkualitas tinggi. Nasi dimasak hingga pulen dan diaduk dengan sedikit minyak wijen untuk memberikan aroma yang harum. Lauk dipilih dan dimasak dengan teknik yang memastikan setiap potongan daging atau seafood tetap juicy dan penuh rasa. Bumbu-bumbu khas seperti kecap asin, bawang putih, dan jahe digunakan untuk meningkatkan cita rasa, menjadikan setiap suapan terasa istimewa. Black Plate Rice Dish adalah pilihan sempurna untuk Anda yang mencari hidangan yang lengkap dan memuaskan. Disajikan dengan tampilan yang elegan di atas piring hitam, hidangan ini cocok untuk makan siang atau malam, baik untuk acara formal maupun santai. Kombinasi antara nasi, lauk, dan sayuran memberikan keseimbangan nutrisi dan kelezatan yang tidak terlupakan. Nikmati setiap momen makan Anda dengan keistimewaan Black Plate Rice Dish kami.",
+      "rate": "4.2",
+      "price": "37000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/rice%2FBlack%20Plate%20Rice%20Dish_11zon.jpg?alt=media&token=87285f07-c318-4194-b3c2-2a9d149ad4a1",
+      "category": "rice"
+    },
+    {
+      "title": "Flavored Rice with Egg",
+      "description": "Rasakan kelezatan sederhana namun menggugah selera dengan Flavored Rice with Egg kami, hidangan nasi yang kaya rasa dengan tambahan telur yang dimasak sempurna. Nasi yang pulen dimasak dengan bumbu khas yang memberikan cita rasa gurih dan sedikit manis. Di atasnya, telur mata sapi atau telur dadar yang lembut memberikan sentuhan protein yang menyeimbangkan keseluruhan hidangan. Proses pembuatan Flavored Rice with Egg dimulai dengan memasak nasi hingga mencapai tekstur yang tepat. Bumbu seperti kecap asin, bawang putih, dan sedikit minyak wijen ditambahkan untuk memberikan rasa yang mendalam. Telur dimasak sesuai dengan pilihan Anda, baik itu telur mata sapi dengan kuning telur yang meleleh atau telur dadar yang fluffy. Kombinasi ini menciptakan harmoni rasa yang sederhana namun memuaskan. Flavored Rice with Egg adalah pilihan ideal untuk sarapan, makan siang, atau makan malam yang praktis namun tetap lezat. Disajikan dengan hiasan daun bawang atau irisan cabai untuk menambah sedikit warna dan rasa, hidangan ini tidak hanya mengenyangkan tetapi juga menyenangkan mata. Sempurna untuk dinikmati sendiri atau bersama keluarga, Flavored Rice with Egg kami adalah cara terbaik untuk menikmati kelezatan nasi dengan sentuhan telur yang spesial.",
+      "rate": "4.4",
+      "price": "35000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/rice%2FFlavored%20Rice%20with%20Egg_11zon.jpg?alt=media&token=3a6ec0ff-cce1-4085-b6ef-bb97bcf5a285",
+      "category": "rice"
+    },
+    {
+      "title": "Flavorful Rice Meal",
+      "description": "Nikmati kelezatan sempurna dengan Flavorful Rice Meal kami, hidangan nasi yang dipadukan dengan berbagai lauk pauk dan sayuran segar yang kaya rasa. Nasi yang pulen dimasak dengan bumbu spesial yang memberikan rasa gurih dan aroma yang menggugah selera. Ditambah dengan potongan ayam, daging sapi, atau seafood yang dimasak dengan sempurna, serta sayuran segar seperti wortel, kacang polong, dan paprika, hidangan ini menawarkan pengalaman kuliner yang lengkap dan memuaskan. Proses persiapan Flavorful Rice Meal dimulai dengan memasak nasi hingga mencapai tekstur yang ideal. Bumbu seperti kecap asin, minyak wijen, dan bawang putih digunakan untuk memberikan rasa yang kaya dan mendalam. Lauk pauk dipilih dengan hati-hati dan dimasak dengan teknik yang menjaga kelezatan dan kesegaran setiap bahan. Sayuran segar ditambahkan untuk memberikan tekstur renyah dan warna yang menarik, menciptakan harmoni rasa dan tampilan yang menggugah selera. Flavorful Rice Meal adalah pilihan sempurna untuk makan siang atau malam yang memuaskan. Disajikan dalam porsi yang pas, hidangan ini tidak hanya mengenyangkan tetapi juga menyehatkan. Kombinasi antara nasi, lauk pauk, dan sayuran memberikan keseimbangan nutrisi yang ideal, menjadikannya pilihan yang tepat untuk dinikmati bersama keluarga atau teman-teman. Nikmati kelezatan dan keseimbangan dalam setiap gigitan dengan Flavorful Rice Meal kami.",
+      "rate": "4.2",
+      "price": "33000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/rice%2FFlavorful%20Rice%20Meal_11zon.jpg?alt=media&token=f174067f-fdca-45a2-ba50-bba07eebc534",
+      "category": "rice"
+    },
+    {
+      "title": "Opulent Fried Rice",
+      "description": "Rasakan kemewahan rasa dengan Opulent Fried Rice kami, hidangan nasi goreng yang diperkaya dengan bahan-bahan premium dan bumbu spesial. Nasi yang dimasak dengan sempurna digoreng dengan telur, daging pilihan seperti ayam, sapi, atau udang, serta sayuran segar yang menambah warna dan tekstur. Sentuhan bumbu seperti kecap asin, saus tiram, dan minyak wijen memberikan rasa yang mendalam dan aroma yang menggoda. Proses pembuatan Opulent Fried Rice dimulai dengan menumis bawang putih dan bawang bombay hingga harum. Nasi yang sudah dimasak ditambahkan bersama dengan telur dan daging pilihan, kemudian digoreng hingga semua bahan tercampur merata dan bumbu meresap. Sayuran segar seperti kacang polong, wortel, dan paprika ditambahkan untuk memberikan tekstur dan rasa yang seimbang. Sentuhan akhir berupa taburan bawang goreng atau daun bawang segar menambah kelezatan dan keindahan tampilan. Opulent Fried Rice adalah pilihan yang tepat untuk Anda yang mencari hidangan nasi goreng dengan cita rasa mewah dan istimewa. Disajikan dalam porsi yang pas dan dihiasi dengan irisan cabai atau jeruk nipis, hidangan ini tidak hanya lezat tetapi juga memikat mata. Cocok untuk dinikmati sebagai makan siang atau malam, baik untuk acara formal maupun santai, Opulent Fried Rice kami adalah pilihan sempurna untuk menikmati nasi goreng dengan sentuhan kemewahan.",
+      "rate": "4.5",
+      "price": "34000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/rice%2FOpulent%20Fried%20Rice_11zon.jpg?alt=media&token=b9f38abc-a88c-4b3d-ae8a-65e8a7c8b1a7",
+      "category": "rice"
+    },
+    {
+      "title": "Spicy Chicken with Smashed chili",
+      "description": "Nikmati sensasi pedas dan gurih yang menggugah selera dengan Spicy Chicken with Smashed Chili kami. Hidangan ini menampilkan potongan ayam yang juicy dan lembut, dimasak dengan bumbu pedas yang terbuat dari cabai segar yang dihaluskan bersama bawang putih, bawang merah, dan rempah-rempah khas. Setiap gigitan ayam memberikan ledakan rasa pedas yang seimbang dengan gurihnya bumbu, menciptakan pengalaman kuliner yang tidak terlupakan bagi para pecinta makanan pedas. Proses persiapan Spicy Chicken with Smashed Chili dimulai dengan memotong ayam pilihan yang kemudian dimarinasi dengan campuran bumbu rahasia untuk memastikan rasa meresap hingga ke dalam. Cabai segar dihaluskan bersama bawang putih, bawang merah, dan sedikit gula untuk menciptakan saus pedas yang kaya rasa. Ayam kemudian dimasak dengan saus ini hingga matang sempurna, memastikan setiap potongan ayam terbalut dengan sempurna oleh saus yang pedas dan menggugah selera. Spicy Chicken with Smashed Chili tidak hanya lezat tetapi juga memanjakan mata dengan tampilannya yang menarik. Disajikan dengan irisan mentimun segar dan daun ketumbar sebagai pelengkap, hidangan ini menawarkan keseimbangan antara rasa pedas, gurih, dan segar. Cocok untuk dinikmati dengan nasi putih hangat, Spicy Chicken with Smashed Chili kami adalah pilihan sempurna untuk makan siang atau malam yang memuaskan dan penuh rasa.",
+      "rate": "4.6",
+      "price": "39000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/rice%2FSpicy%20Chicken%20with%20Smashed%20chili_11zon.jpg?alt=media&token=a1b6fcbf-e642-4111-8d11-a1eadc499365",
+      "category": "rice"
+    },
+    {
+      "title": "Stuffed Rice Ball",
+      "description": "Rasakan keunikan dan kelezatan Stuffed Rice Ball kami, hidangan nasi yang diisi dengan berbagai bahan lezat dan dibentuk menjadi bola-bola nasi yang cantik. Setiap bola nasi diisi dengan campuran daging ayam cincang, sayuran segar, dan bumbu khas yang memberikan rasa gurih dan sedikit manis. Dibungkus dengan nasi yang pulen dan dibentuk dengan hati-hati, hidangan ini menawarkan kejutan rasa di setiap gigitan. Proses pembuatan Stuffed Rice Ball dimulai dengan memasak nasi hingga pulen dan membuat isian dari campuran daging ayam, wortel, kacang polong, dan bumbu seperti kecap asin, bawang putih, dan sedikit minyak wijen. Isian ini kemudian dibungkus dengan nasi dan dibentuk menjadi bola-bola yang kompak dan rapi. Setiap bola nasi kemudian dipanggang atau digoreng hingga bagian luarnya sedikit renyah, memberikan tekstur yang menarik. Stuffed Rice Ball adalah pilihan ideal untuk camilan atau hidangan utama yang praktis namun tetap lezat. Disajikan dengan saus celup seperti saus tomat atau saus sambal, hidangan ini cocok untuk dinikmati sendiri atau bersama teman dan keluarga. Bentuknya yang menarik dan rasanya yang kaya membuat Stuffed Rice Ball kami menjadi favorit di setiap kesempatan, baik untuk piknik, bekal, atau acara santai di rumah.",
+      "rate": "4.5",
+      "price": "34000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/rice%2FStuffed%20Rice%20Ball_11zon.jpg?alt=media&token=a4528ad7-0042-4ad1-b45b-6f8231421cca",
+      "category": "rice"
+    },
+    {
+      "title": "Sumptuous Chicken Rice",
+      "description": "Nikmati kelezatan yang menggugah selera dengan Sumptuous Chicken Rice kami, hidangan nasi yang dipadukan dengan ayam yang dimasak dengan sempurna dan bumbu khas yang kaya rasa. Nasi yang pulen disajikan dengan potongan ayam yang juicy dan lembut, dimarinasi dan dimasak dengan rempah-rempah pilihan untuk menghasilkan rasa yang mendalam dan memuaskan. Setiap suapan menghadirkan harmoni rasa antara nasi dan ayam yang sempurna, menjadikan hidangan ini pilihan yang tak tertandingi. Proses persiapan Sumptuous Chicken Rice dimulai dengan memasak nasi hingga pulen dengan tambahan kaldu ayam untuk memberikan rasa yang lebih kaya. Ayam dipilih dengan hati-hati, dimarinasi dengan campuran bumbu seperti bawang putih, jahe, dan kecap asin, lalu dimasak hingga matang sempurna. Ayam ini kemudian dipotong-potong dan disajikan di atas nasi yang hangat, dilengkapi dengan sayuran segar seperti mentimun dan daun bawang untuk menambah kesegaran. Sumptuous Chicken Rice adalah hidangan yang sempurna untuk dinikmati kapan saja, baik untuk makan siang maupun makan malam. Disajikan dengan saus pendamping seperti saus kecap manis atau saus sambal, hidangan ini tidak hanya lezat tetapi juga memanjakan mata dengan tampilannya yang menarik. Kombinasi antara nasi yang harum dan ayam yang lezat menjadikan Sumptuous Chicken Rice kami sebagai pilihan utama untuk pengalaman makan yang memuaskan dan penuh rasa.",
+      "rate": "4.6",
+      "price": "32000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/rice%2FSumptuous%20Chicken%20Rice_11zon.jpg?alt=media&token=1a8fa473-533e-4fc8-95a7-21d79f5181a3",
+      "category": "hot_deals"
+    },
+    {
+      "title": "Yellow Aromatic Rice",
+      "description": "Nikmati kelezatan dan aroma yang khas dengan Yellow Aromatic Rice kami, hidangan nasi kuning yang dimasak dengan berbagai rempah pilihan. Nasi yang pulen dan harum ini mendapatkan warna kuningnya yang indah dari kunyit, serta rasa yang kaya dari campuran rempah seperti daun salam, serai, dan kayu manis. Setiap butir nasi menyerap kelezatan bumbu-bumbu ini, menciptakan hidangan yang tidak hanya memuaskan lidah tetapi juga menghangatkan hati. Proses persiapan Yellow Aromatic Rice dimulai dengan mencuci beras hingga bersih dan merendamnya sebentar. Bumbu-bumbu seperti kunyit, daun salam, serai, dan kayu manis ditumis hingga harum sebelum beras ditambahkan dan dimasak bersama kaldu ayam atau air santan untuk memberikan rasa yang lebih mendalam. Nasi kemudian dimasak hingga pulen dan berwarna kuning cerah, siap untuk disajikan dengan berbagai lauk pauk. Yellow Aromatic Rice adalah pilihan yang sempurna untuk menemani berbagai hidangan utama seperti ayam goreng, rendang, atau ikan bakar. Disajikan dengan hiasan daun pandan atau irisan mentimun, nasi kuning ini tidak hanya lezat tetapi juga menarik secara visual. Cocok untuk berbagai acara spesial seperti ulang tahun atau perayaan keluarga, Yellow Aromatic Rice kami adalah pilihan yang tepat untuk menambah keistimewaan dan kelezatan di meja makan Anda.",
+      "rate": "4.4",
+      "price": "33000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/rice%2FYellow%20Aromatic%20Rice_11zon.jpg?alt=media&token=3ecc7d54-8b80-4c87-8d3a-e4262e94434e",
+      "category": "rice"
+    },
+    {
+      "title": "Clam Chowder",
+      "description": "Nikmati kelezatan laut yang kaya dengan Clam Chowder kami, sup kental yang dibuat dari kerang segar dan bahan-bahan pilihan. Setiap mangkuk Clam Chowder kami diisi dengan kerang yang juicy, kentang lembut, dan potongan sayuran seperti seledri dan wortel yang dimasak dengan kaldu kental berbasis cream. Sup ini dibumbui dengan rempah-rempah seperti thyme dan daun salam yang memberikan aroma harum dan rasa yang mendalam. Proses pembuatan Clam Chowder dimulai dengan menumis bawang bombay dan bawang putih hingga harum. Kaldu ayam dan cream ditambahkan untuk menciptakan dasar sup yang kental dan kaya rasa. Kerang segar dimasak hingga empuk dan juicy, kemudian ditambahkan bersama kentang dan sayuran ke dalam sup. Rempah-rempah pilihan dan sedikit daging asap memberikan sentuhan akhir yang gurih dan sedikit smoky, menjadikan Clam Chowder kami sempurna untuk dinikmati di hari yang dingin. Clam Chowder kami disajikan dengan roti panggang renyah atau crackers yang menambah tekstur dan kelezatan di setiap suapan. Cocok untuk hidangan pembuka atau hidangan utama yang menghangatkan, Clam Chowder ini membawa Anda pada pengalaman kuliner khas pesisir yang penuh cita rasa. Dengan setiap sendok, Anda akan merasakan kombinasi sempurna antara lembutnya sup dan gurihnya kerang, menciptakan kenikmatan yang tak terlupakan.",
+      "rate": "4.3",
+      "price": "94000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FClam%20Chowder_11zon.jpg?alt=media&token=a63a3621-0914-49a6-ae25-e9155879ac01",
+      "category": "seafood"
+    },
+    {
+      "title": "Garlic Shrimp Dish",
+      "description": "Rasakan kelezatan yang menggugah selera dengan Garlic Shrimp Dish kami, hidangan yang menampilkan udang segar yang dimasak dengan sempurna bersama bawang putih yang harum. Udang yang juicy dan lembut ini ditumis dengan mentega dan bawang putih, kemudian diberi sentuhan perasan lemon dan peterseli segar untuk menambah aroma dan rasa. Setiap gigitan menghadirkan perpaduan rasa gurih dan segar yang memanjakan lidah. Proses persiapan Garlic Shrimp Dish dimulai dengan memilih udang segar berkualitas tinggi yang dikupas dan dibersihkan. Udang kemudian ditumis dengan mentega hingga berubah warna dan mengeluarkan aroma yang harum. Bawang putih cincang ditambahkan untuk memberikan rasa yang khas dan menggugah selera. Perasan lemon dan taburan peterseli segar menjadi sentuhan akhir yang menyempurnakan hidangan ini, memberikan keseimbangan antara rasa gurih dan asam. Garlic Shrimp Dish kami cocok untuk dinikmati sebagai hidangan utama atau pendamping. Disajikan dengan nasi putih hangat, pasta, atau salad segar, hidangan ini menawarkan fleksibilitas dalam penyajian. Penampilannya yang menarik dengan warna-warna cerah dari udang dan peterseli menjadikan Garlic Shrimp Dish sebagai pilihan sempurna untuk makan malam spesial atau acara santai bersama keluarga dan teman-teman.",
+      "rate": "4.5",
+      "price": "96000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FGarlic%20Shrimp%20Dish_11zon.jpg?alt=media&token=be9f6499-0051-43b9-8cd7-367172eac557",
+      "category": "seafood"
+    },
+    {
+      "title": "Grilled Salmon Fillet",
+      "description": "Nikmati kelezatan sehat dengan Grilled Salmon Fillet kami, hidangan yang menampilkan fillet salmon yang dipanggang dengan sempurna hingga kulitnya renyah dan dagingnya lembut. Salmon segar ini dibumbui dengan campuran rempah-rempah dan minyak zaitun, kemudian dipanggang hingga mencapai keemasan yang menggugah selera. Sentuhan perasan lemon dan taburan dill segar menambah aroma dan rasa yang menawan. Proses persiapan Grilled Salmon Fillet kami dimulai dengan memilih salmon segar berkualitas tinggi yang dipotong menjadi fillet. Salmon kemudian dimarinasi dengan campuran minyak zaitun, garam, lada, dan rempah-rempah seperti dill dan bawang putih. Fillet salmon dipanggang di atas grill panas hingga kulitnya renyah namun dagingnya tetap juicy dan lembut. Perasan lemon segar ditambahkan sebelum disajikan untuk memberikan sentuhan asam yang menyegarkan. Grilled Salmon Fillet cocok dinikmati dengan berbagai pilihan pendamping seperti sayuran panggang, salad hijau, atau kentang tumbuk. Disajikan dengan tampilan yang elegan dan warna keemasan yang menggoda, hidangan ini tidak hanya lezat tetapi juga menyehatkan. Sempurna untuk makan malam istimewa atau acara keluarga, Grilled Salmon Fillet kami menawarkan keseimbangan rasa dan nutrisi yang memuaskan.",
+      "rate": "4.3",
+      "price": "91000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FGrilled%20Salmon%20Fillet_11zon.jpg?alt=media&token=34a3b5a7-d8b5-4038-9f87-bb4dbad8da8d",
+      "category": "seafood"
+    },
+    {
+      "title": "Grilled Salmon over Vegetables",
+      "description": "Nikmati hidangan sehat dan lezat dengan Grilled Salmon over Vegetables kami, yang menyajikan fillet salmon panggang di atas sayuran segar yang ditumis dengan bumbu khas. Salmon segar dipanggang hingga kulitnya renyah dan dagingnya lembut, kemudian diletakkan di atas tempat tidur sayuran seperti paprika, zucchini, dan asparagus yang dimasak dengan minyak zaitun dan bawang putih. Sentuhan perasan lemon dan rempah-rempah segar menambah kesegaran dan kelezatan pada hidangan ini. Proses persiapan Grilled Salmon over Vegetables dimulai dengan memilih salmon dan sayuran segar berkualitas tinggi. Sayuran dipotong-potong dan ditumis dengan minyak zaitun, bawang putih, serta sedikit garam dan lada hingga matang sempurna namun tetap renyah. Fillet salmon dimarinasi dengan bumbu sederhana dan dipanggang hingga kulitnya renyah. Salmon panggang kemudian disajikan di atas sayuran tumis, menciptakan perpaduan rasa yang harmonis dan menyehatkan. Grilled Salmon over Vegetables adalah pilihan yang tepat untuk makan siang atau malam yang sehat dan memuaskan. Disajikan dengan tampilan yang menarik dan warna-warna cerah dari sayuran dan salmon, hidangan ini tidak hanya memanjakan lidah tetapi juga mata. Cocok untuk dinikmati sendiri atau bersama keluarga, Grilled Salmon over Vegetables kami adalah cara sempurna untuk menikmati kelezatan ikan salmon dengan tambahan sayuran segar yang menyehatkan.",
+      "rate": "4.6",
+      "price": "98000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FGrilled%20Salmon%20over%20Vegetables_11zon.jpg?alt=media&token=2807eaa0-6cac-4fae-a607-67aa4ed0adca",
+      "category": "seafood"
+    },
+    {
+      "title": "Grilled Shrimp Skewers",
+      "description": "Nikmati kelezatan seafood dengan Grilled Shrimp Skewers kami, hidangan yang menampilkan udang segar yang ditusuk dan dipanggang hingga sempurna. Udang yang juicy dan manis ini dibumbui dengan campuran rempah-rempah, minyak zaitun, dan perasan lemon untuk menciptakan rasa yang gurih dan segar. Dipanggang di atas api hingga matang merata, Grilled Shrimp Skewers kami menghadirkan aroma yang menggugah selera dan tekstur yang lembut namun renyah di luar. Proses pembuatan Grilled Shrimp Skewers dimulai dengan memilih udang segar berkualitas tinggi yang dikupas dan dibersihkan. Udang kemudian dimarinasi dengan campuran bumbu seperti paprika, bawang putih, lada hitam, dan minyak zaitun untuk memberikan rasa yang mendalam. Setelah dimarinasi, udang ditusuk pada tusukan kayu atau logam dan dipanggang di atas grill panas hingga berubah warna menjadi kemerahan dan sedikit karamel di bagian tepinya. Grilled Shrimp Skewers cocok dinikmati sebagai hidangan pembuka atau hidangan utama yang praktis dan lezat. Disajikan dengan saus celup seperti saus tartar atau aioli, serta irisan lemon dan sayuran panggang sebagai pelengkap, hidangan ini menawarkan keseimbangan rasa yang sempurna. Baik untuk acara barbekyu bersama teman dan keluarga atau makan malam santai di rumah, Grilled Shrimp Skewers kami adalah pilihan yang tepat untuk pengalaman makan yang istimewa dan memuaskan.",
+      "rate": "4.3",
+      "price": "94000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FGrilled%20Shrimp%20Skewers_11zon.jpg?alt=media&token=9a18c3dc-620a-4543-9ecc-bceeb9a4e400",
+      "category": "seafood"
+    },
+    {
+      "title": "Honey Mustard Salmon",
+      "description": "Rasakan perpaduan rasa manis dan gurih yang menggugah selera dengan Honey Mustard Salmon kami. Fillet salmon segar yang dimarinasi dengan saus madu dan mustard, kemudian dipanggang hingga kulitnya renyah dan dagingnya lembut. Saus madu dan mustard memberikan rasa karamel yang manis dengan sedikit rasa tajam dari mustard, menciptakan harmoni rasa yang sempurna di setiap gigitan. Proses persiapan Honey Mustard Salmon dimulai dengan memilih fillet salmon berkualitas tinggi yang dimarinasi dalam campuran madu, mustard Dijon, bawang putih, dan sedikit cuka. Fillet salmon kemudian dipanggang di atas grill atau dalam oven hingga matang sempurna, memastikan kulitnya renyah dan dagingnya juicy. Sentuhan akhir berupa tambahan saus madu mustard di atasnya memberikan kilauan dan rasa yang lezat. Honey Mustard Salmon cocok disajikan dengan berbagai pendamping seperti kentang panggang, sayuran tumis, atau salad segar. Hidangan ini tidak hanya memanjakan lidah tetapi juga menarik mata dengan warna keemasan dari saus madu mustard. Ideal untuk makan malam spesial atau acara keluarga, Honey Mustard Salmon kami menawarkan keseimbangan rasa dan nutrisi yang memuaskan serta pengalaman kuliner yang tak terlupakan.",
+      "rate": "4.7",
+      "price": "92000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FHoney%20Mustard%20Salmon_11zon.jpg?alt=media&token=127ea199-2587-4e8b-98ce-bb44ea23e083",
+      "category": "hot_deals"
+    },
+    {
+      "title": "Maple Glazed Salmon",
+      "description": "Nikmati kelezatan manis dan gurih dengan Maple Glazed Salmon kami, hidangan salmon yang dipanggang dengan lapisan saus maple yang kaya rasa. Fillet salmon yang lembut dilapisi dengan campuran sirup maple, kecap asin, dan bawang putih, kemudian dipanggang hingga karamelisasi yang sempurna tercapai. Saus maple memberikan rasa manis alami yang menyatu dengan gurihnya kecap, menciptakan perpaduan rasa yang memanjakan lidah. Proses pembuatan Maple Glazed Salmon dimulai dengan memilih fillet salmon segar yang dilapisi dengan saus maple yang terbuat dari sirup maple murni, kecap asin, bawang putih cincang, dan sedikit jahe. Salmon kemudian dipanggang di atas grill atau dalam oven hingga sausnya mengental dan membentuk lapisan karamel yang menggoda. Hasilnya adalah salmon dengan tekstur lembut di dalam dan lapisan luar yang manis serta sedikit renyah. Maple Glazed Salmon cocok dinikmati dengan nasi hangat, sayuran panggang, atau quinoa untuk hidangan yang seimbang dan menyehatkan. Penampilannya yang cantik dengan kilauan saus maple membuat hidangan ini ideal untuk makan malam istimewa atau acara keluarga. Maple Glazed Salmon kami adalah cara yang sempurna untuk menikmati kelezatan salmon dengan sentuhan manis yang unik dan menggugah selera.",
+      "rate": "4.4",
+      "price": "96000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FMaple%20Glazed%20Salmon_11zon.jpg?alt=media&token=eff05067-a112-4ece-9eb7-ea4d3526dbba",
+      "category": "seafood"
+    },
+    {
+      "title": "Meat and Vegetable Stir-Fry",
+      "description": "Nikmati kelezatan dan kesegaran dalam setiap suapan dengan Meat and Vegetable Stir-Fry kami, hidangan yang menampilkan daging pilihan yang dimasak bersama sayuran segar dalam bumbu khas. Potongan daging sapi, ayam, atau babi yang juicy ditumis dengan sayuran seperti brokoli, wortel, dan paprika dalam saus gurih yang kaya rasa. Proses stir-fry yang cepat dan panas tinggi memastikan semua bahan matang sempurna dan tetap renyah. Proses persiapan Meat and Vegetable Stir-Fry dimulai dengan memotong daging dan sayuran dalam ukuran yang seragam untuk memastikan kematangan merata. Daging dimarinasi dengan bumbu seperti kecap asin, minyak wijen, dan bawang putih untuk memberikan rasa yang mendalam. Sayuran ditumis terlebih dahulu hingga sedikit layu, kemudian ditambahkan daging dan saus stir-fry, yang terbuat dari campuran kecap asin, saus tiram, dan sedikit gula untuk menciptakan rasa gurih yang seimbang. Meat and Vegetable Stir-Fry adalah pilihan sempurna untuk makan malam yang cepat, sehat, dan lezat. Disajikan dengan nasi putih hangat atau mi, hidangan ini menawarkan keseimbangan antara protein, serat, dan karbohidrat. Dengan warna-warni sayuran yang segar dan potongan daging yang juicy, Meat and Vegetable Stir-Fry kami tidak hanya memanjakan lidah tetapi juga mata, menjadikannya hidangan favorit bagi seluruh keluarga.",
+      "rate": "4.2",
+      "price": "99000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FMeat%20and%20Vegetable%20Stir-Fry_11zon.jpg?alt=media&token=d4e78328-a103-4ba8-b19c-eb6e9cdf0ecb",
+      "category": "hot_deals"
+    },
+    {
+      "title": "Shellfish Symphony",
+      "description": "Nikmati harmoni rasa laut dengan Shellfish Symphony kami, hidangan yang mempersembahkan kelezatan dari berbagai jenis seafood. Hidangan ini menggabungkan berbagai jenis kerang dan seafood, seperti kerang, udang, dan cumi-cumi, yang disajikan dalam saus berbasis tomat yang kaya rasa dengan sentuhan rempah yang khas. Setiap suapan Shellfish Symphony membawa Anda pada petualangan rasa laut yang menggugah selera. Proses persiapan Shellfish Symphony dimulai dengan memilih seafood segar terbaik yang tersedia, yang kemudian dimasak dengan saus tomat yang kaya dan bumbu khas seperti lada hitam, daun salam, dan serai. Kerang dan seafood lainnya dimasak hingga matang sempurna, memastikan bahwa rasa gurih dan manis dari seafood terpancar dengan sempurna dalam hidangan ini. Disajikan dengan irisan lemon dan taburan peterseli segar, Shellfish Symphony adalah hidangan laut yang menggoda dan memuaskan. Shellfish Symphony cocok dinikmati sebagai hidangan utama untuk makan malam yang istimewa atau sebagai hidangan pembuka dalam acara formal. Keseimbangan rasa antara gurihnya seafood dan rasa segar dari saus tomat menjadikannya pilihan yang tepat untuk pecinta hidangan laut. Dengan setiap suapan, Anda akan merasakan kelezatan dan kekayaan rasa dari Shellfish Symphony yang menyatukan berbagai jenis seafood dalam sebuah simfoni rasa yang tak terlupakan.",
+      "rate": "4.6",
+      "price": "96000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FShellfish%20Symphony_11zon.jpg?alt=media&token=7bed4f9c-2a8a-4661-8007-43d4c576ab4d",
+      "category": "seafood"
+    },
+    {
+      "title": "Shrimp Scampi",
+      "description": "Rasakan kelezatan klasik Italia dengan Shrimp Scampi kami, hidangan yang menampilkan udang segar yang dimasak dengan bawang putih, mentega, dan anggur putih yang kaya rasa. Udang yang juicy dan lembut ini disajikan dalam saus yang kaya dengan sentuhan lemon dan parsley segar yang menyegarkan. Setiap gigitan Shrimp Scampi membawa Anda pada perjalanan rasa yang memanjakan lidah. Proses pembuatan Shrimp Scampi dimulai dengan menumis bawang putih dalam mentega hingga harum, kemudian ditambahkan udang yang telah dikupas dan dibersihkan. Udang dimasak hingga berubah warna dan matang sempurna, kemudian disiram dengan anggur putih dan jus lemon untuk memberikan aroma dan rasa yang khas. Taburan parsley segar menjadi sentuhan akhir yang menyempurnakan hidangan ini. Shrimp Scampi adalah pilihan yang sempurna untuk makan malam romantis atau acara spesial lainnya. Disajikan dengan pasta angel hair atau spaghetti, hidangan ini menawarkan kombinasi rasa yang klasik dan memuaskan. Keseimbangan antara gurihnya udang, aroma harum bawang putih, dan kesegaran lemon menjadikan Shrimp Scampi sebagai hidangan favorit yang tak pernah mengecewakan.",
+      "rate": "4.5",
+      "price": "91000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FShrimp%20Scampi_11zon.jpg?alt=media&token=93d33d88-8222-4945-933d-39f4ed9c4412",
+      "category": "seafood"
+    },
+    {
+      "title": "Spiced Shrimp",
+      "description": "Rasakan kelezatan yang pedas dan gurih dengan Spiced Shrimp kami, hidangan udang yang dibumbui dengan campuran rempah khas yang menggugah selera. Udang segar ini dimarinasi dengan campuran bumbu seperti cabai bubuk, paprika, bawang putih, dan rempah-rempah lainnya, kemudian dipanggang atau digoreng hingga keemasan. Setiap gigitan Spiced Shrimp membawa Anda pada petualangan rasa yang tak terlupakan. Proses persiapan Spiced Shrimp dimulai dengan memilih udang segar yang telah dikupas dan dibersihkan, yang kemudian dimarinasi dalam campuran rempah yang kaya dan meresap. Udang kemudian dipanggang atau digoreng dengan minyak panas hingga matang sempurna dan kulitnya sedikit renyah. Hasilnya adalah udang yang juicy di dalam dan renyah di luar, dengan aroma harum dan cita rasa pedas yang memukau. Spiced Shrimp adalah pilihan yang tepat untuk pecinta hidangan pedas dan seafood. Disajikan dengan saus sambal atau saus tomat pedas, hidangan ini cocok dinikmati sebagai hidangan pembuka atau hidangan utama yang memikat selera. Dengan setiap gigitan, Anda akan merasakan sensasi pedas dan gurih yang menyenangkan dari Spiced Shrimp kami yang memukau.",
+      "rate": "4.3",
+      "price": "94000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FSpiced%20Shrimp_11zon.jpg?alt=media&token=062d3e15-6206-4632-a594-0d05e36babfe",
+      "category": "seafood"
+    },
+    {
+      "title": "Sumptuous Shrimp Salad",
+      "description": "Nikmati kelezatan segar dan sehat dengan Sumptuous Shrimp Salad kami, hidangan salad yang memadukan udang segar dengan berbagai bahan salad yang menyegarkan. Setiap gigitan salad ini menghadirkan kombinasi rasa yang seimbang antara gurihnya udang, segar dan renyahnya sayuran, serta aroma harum dari dressing khas yang menyatu dengan sempurna. Dengan setiap suapan, Anda akan merasakan kelezatan dan kesehatan dari Sumptuous Shrimp Salad kami yang memuaskan. Proses persiapan Sumptuous Shrimp Salad dimulai dengan memilih udang segar berkualitas tinggi yang kemudian dimasak hingga matang sempurna dan dipotong menjadi potongan-potongan yang mudah dinikmati. Sayuran segar seperti selada hijau, tomat cherry, mentimun, dan paprika diatur dengan cantik untuk menciptakan tampilan yang menarik dan variasi rasa yang beragam. Ditambah dengan keju parmesan yang diparut dan kacang almond panggang untuk memberikan sentuhan gurih yang menyempurnakan hidangan. Sumptuous Shrimp Salad cocok dinikmati sebagai hidangan utama yang ringan dan menyehatkan atau sebagai hidangan pembuka dalam acara makan malam yang istimewa. Disajikan dengan dressing pilihan seperti vinaigrette balsamic atau lemon herb, hidangan ini memberikan kesegaran dan kelezatan yang memuaskan. Dengan kombinasi antara udang segar, sayuran segar, dan tambahan gizi dari keju parmesan dan kacang almond, Sumptuous Shrimp Salad kami adalah pilihan yang sempurna untuk pengalaman makan yang memuaskan dan penuh rasa.",
+      "rate": "4.7",
+      "price": "93000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/seafood%2FSumptuous%20Shrimp%20Salad_11zon.jpg?alt=media&token=7cac8977-4dba-4743-8a22-9eb44e55b871",
+      "category": "seafood"
+    },
+    {
+      "title": "Chicken-Stuffed Tapioca Fritters",
+      "description": "Nikmati kelezatan unik dengan Chicken-Stuffed Tapioca Fritters kami, hidangan yang menggabungkan dua elemen yang lezat dalam satu sajian. Setiap gigitan memperkenalkan Anda pada paduan tekstur garing dari lapisan luar tepung tapioka yang digoreng dengan lembutnya isian daging ayam. Daging ayam yang diisi dengan rempah-rempah khas memberikan sentuhan gurih yang memenuhi selera, sementara lapisan luar fritters yang renyah menambahkan dimensi baru pada pengalaman makan Anda. Proses pembuatan Chicken-Stuffed Tapioca Fritters dimulai dengan persiapan daging ayam yang diolah dengan rempah-rempah pilihan. Kemudian, daging ayam ini dibungkus dengan adonan tepung tapioka dan digoreng hingga kecokelatan sempurna. Hasilnya adalah sajian yang menawan dengan kombinasi rasa yang kaya dan tekstur yang memikat, cocok untuk dinikmati sebagai camilan atau hidangan pembuka yang menggugah selera. Chicken-Stuffed Tapioca Fritters merupakan pilihan yang sempurna untuk mereka yang menginginkan variasi dari camilan biasa. Dengan cita rasa yang lezat dan tampilan yang menggugah selera, hidangan ini akan menjadi sorotan dalam setiap acara makan Anda. Sajikan dengan saus pilihan Anda untuk pengalaman makan yang lebih memuaskan.",
+      "rate": "4.3",
+      "price": "26000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/snack%2FChicken-Stuffed%20Tapioca%20Fritters.jpeg?alt=media&token=9351d3fc-37f3-42d7-b0eb-bb58d009a9f9",
+      "category": "snack"
+    },
+    {
+      "title": "French Fries",
+      "description": "French Fries kami adalah penawar dahaga yang sempurna untuk penggemar kentang yang renyah di luar dan lembut di dalam. Setiap gigitan menghadirkan kelezatan yang klasik dengan tekstur yang memikat dan cita rasa yang tak tertandingi. Dipotong dalam ukuran yang pas dan digoreng hingga keemasan, French Fries kami siap memuaskan selera Anda kapan pun Anda menginginkannya. Proses persiapan French Fries dimulai dengan memilih kentang segar yang kemudian dipotong menjadi batangan-batangan yang seragam. Batangan kentang ini kemudian digoreng dalam minyak panas hingga kecokelatan dan renyah di luar serta lembut di dalam. Hasilnya adalah sajian yang menggugah selera dengan aroma harum kentang yang segar dan cita rasa yang khas. French Fries adalah pilihan yang sempurna untuk dinikmati sebagai camilan favorit atau sebagai pendamping dalam hidangan utama. Disajikan dengan saus pilihan Anda, French Fries ini akan menjadi teman yang sempurna untuk menyempurnakan setiap hidangan. Rasakan kenikmatannya dan nikmati kelezatan yang tak terlupakan.",
+      "rate": "4.5",
+      "price": "24000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/snack%2FFrench%20Fries_11zon.jpg?alt=media&token=140fd7ae-998b-42d8-97f2-c54025001a60",
+      "category": "snack"
+    },
+    {
+      "title": "Fried Tapioca Sticks",
+      "description": "Fried Tapioca Sticks kami adalah alternatif yang menarik untuk mereka yang mencari sesuatu yang berbeda dalam camilan. Dibuat dari tapioka yang dipotong memanjang dan digoreng hingga kecokelatan, setiap gigitan menawarkan kombinasi tekstur yang crispy di luar dan lembut di dalam. Cita rasa yang ringan dan khas dari tapioka membuatnya menjadi pilihan yang menarik untuk dinikmati kapan saja. Proses persiapan Fried Tapioca Sticks dimulai dengan memotong tapioka menjadi bentuk batangan yang seragam. Batangan ini kemudian digoreng dalam minyak panas hingga keemasan dan renyah di luar serta lembut di dalam. Hasilnya adalah camilan yang menggugah selera dengan rasa yang unik dan tekstur yang memuaskan. Fried Tapioca Sticks merupakan pilihan yang menyenangkan untuk dinikmati sebagai camilan ringan atau sebagai pendamping dalam hidangan utama. Disajikan dengan saus pilihan Anda, Fried Tapioca Sticks ini akan menjadi tambahan yang menarik dalam setiap acara makan. Rasakan kelezatan dan keunikan dari Fried Tapioca Sticks kami yang memukau.",
+      "rate": "4.7",
+      "price": "22000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/snack%2FFried%20Tapioca%20Sticks_11zon.jpeg?alt=media&token=f2648581-ab9b-49af-b734-0f174a75d98a",
+      "category": "snack"
+    },
+    {
+      "title": "Golden Gourmet Potato Delight",
+      "description": "Nikmati kelezatan yang luar biasa dengan Golden Gourmet Potato Delight kami, sebuah hidangan yang menghadirkan berbagai pilihan yang menggugah selera. Setiap hidangan dalam Golden Gourmet Potato Delight dirancang untuk memuaskan selera Anda dengan cita rasa yang khas dan tekstur yang memikat. Chicken-Stuffed Tapioca Fritters menghadirkan perpaduan sempurna antara gurihnya ayam yang juicy dengan kelembutan tepung tapioka yang digoreng hingga keemasan, menciptakan pengalaman makan yang memuaskan dalam setiap gigitan. French Fries kami adalah penawar dahaga yang sempurna dengan tekstur yang renyah di luar dan lembut di dalam, menghadirkan kelezatan yang klasik dan tak terlupakan. Sementara Fried Tapioca Sticks menawarkan alternatif yang menarik dengan tekstur crispy di luar dan lembut di dalam, menggoda selera dengan rasa yang khas dan unik. Proses persiapan Golden Gourmet Potato Delight dimulai dengan pemilihan bahan-bahan berkualitas tinggi yang kemudian dipersiapkan dengan teliti. Setiap hidangan diolah dengan hati-hati untuk menciptakan rasa dan tekstur yang sempurna. Dari pemilihan bahan hingga tahap penggorengan, kami mengutamakan kualitas untuk memastikan setiap hidangan Golden Gourmet Potato Delight memberikan pengalaman makan yang memuaskan dan tak terlupakan.",
+      "rate": "4.3",
+      "price": "32000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shoppy-baf24.appspot.com/o/snack%2FGolden%20Gourmet%20Potato%20Delight_11zon.jpg?alt=media&token=1e1480f3-463b-4775-ae33-01c0e58b3b19",
+      "category": "snack"
+    }
+  ]
+}

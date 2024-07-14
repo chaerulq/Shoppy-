@@ -54,6 +54,7 @@ class DefaultFirebaseOptions {
     appId: '1:854901185197:android:a5365842979fdc95a94424',
     messagingSenderId: '854901185197',
     projectId: 'shoppy-baf24',
+    databaseURL: 'https://shoppy-baf24-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'shoppy-baf24.appspot.com',
   );
 
@@ -62,7 +63,9 @@ class DefaultFirebaseOptions {
     appId: '1:854901185197:ios:ff001cfdb8e1920ea94424',
     messagingSenderId: '854901185197',
     projectId: 'shoppy-baf24',
+    databaseURL: 'https://shoppy-baf24-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'shoppy-baf24.appspot.com',
     iosBundleId: 'com.example.shoppy',
   );
+
 }
