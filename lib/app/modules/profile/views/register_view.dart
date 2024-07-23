@@ -1,5 +1,3 @@
-import 'dart:io';
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -306,9 +304,6 @@ class _RegisterViewState extends State<RegisterView> {
           setState(() {
             isWebSocketConnected = false;
           });
-        },
-        onDone: () {
-          exit(1);
         },
       );
     } catch (e) {

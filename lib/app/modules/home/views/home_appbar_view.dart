@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
@@ -30,7 +31,7 @@ class HomeAppbarView extends GetView {
         ),
         IconButton(
           onPressed: () {},
-          icon: const Icon(Icons.notifications_outlined),
+          icon: Icon(CupertinoIcons.doc_plaintext),
         ),
       ],
     );

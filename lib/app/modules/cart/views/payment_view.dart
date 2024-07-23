@@ -31,22 +31,33 @@ class _PaymentViewState extends State<PaymentView> {
     ).format(cartController.totalPrice);
     return Obx(() {
       if (controller.isPin.isTrue) {
-        WidgetsBinding.instance.addPostFrameCallback((_) {
+        Future.microtask(() {
           _showPinVerificationSheet();
         });
       } else if (controller.state == ResultState.paymentSuccesful) {
-        controller.clearCall();
-        Get.back();
-        print("succes");
+        Future.microtask(() {
+          controller.clearCall();
+          Get.back();
+          Get.back(result: 'success');
+          Get.snackbar("Succes", 'payment successfully');
+        });
       } else if (controller.state == ResultState.balanceIsLow) {
-        controller.clearCall();
-        Get.back();
-
-        print("saldo kurang");
+        Future.microtask(() {
+          controller.clearCall();
+          Get.back();
+          Get.snackbar("Sorry", 'balance is not enough');
+        });
       } else if (controller.state == ResultState.wrongPin) {
-        controller.clearCall();
-        print("salah pin");
-        Get.back();
+        Future.microtask(() {
+          controller.clearCall();
+          Get.back();
+          Get.snackbar("Sorry", 'Your PIN is wrong');
+        });
+      } else if (controller.state == ResultState.wrongCard) {
+        Future.microtask(() {
+          controller.clearCall();
+          Get.snackbar("Sorry", 'Your card is wrong or not registered');
+        });
       }
       return controller.isLoading.value
           ? Stack(

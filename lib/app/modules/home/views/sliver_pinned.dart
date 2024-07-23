@@ -73,7 +73,7 @@ class SliverPinned extends StatelessWidget {
           ),
           const SizedBox(width: 10), // Add space between container and icon
           Icon(
-            CupertinoIcons.bell,
+            CupertinoIcons.doc_plaintext,
             color: greenColor1,
             size: 23,
           ),

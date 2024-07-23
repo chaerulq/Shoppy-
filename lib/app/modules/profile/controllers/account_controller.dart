@@ -13,6 +13,8 @@ class AccountController extends GetxController {
   // Fungsi untuk mendapatkan Stream dari StreamController
   Stream<String> get stream => _streamController.stream;
 
+  Account? currentAccount;
+
   @override
   void onClose() {
     _streamController.close();
@@ -82,6 +84,7 @@ class AccountController extends GetxController {
 
         if (foundUser != null) {
           // Mengembalikan objek Account jika ditemukan
+          currentAccount = foundUser;
           return foundUser;
         } else {
           print('Akun dengan nomor $phoneNumber tidak ditemukan.');
@@ -98,11 +101,15 @@ class AccountController extends GetxController {
   }
 
   Future<void> updateSaldo({
-    required String uID,
-    required double saldo,
+    required String saldo,
   }) async {
     try {
-      await _dbRef.child(uID).update({'saldo': saldo});
+      final username = currentAccount!.username;
+      final currentSaldo = currentAccount!.saldo;
+      // Convert String to int
+      final saldoInt = int.parse(saldo);
+      final totalSaldo = currentSaldo + saldoInt;
+      await _dbRef.child(username).update({'saldo': totalSaldo});
       Get.snackbar('Success', 'Saldo updated successfully');
     } catch (e) {
       Get.snackbar('Error', e.toString());
