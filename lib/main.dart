@@ -5,7 +5,7 @@ import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
 import 'package:shoppy/app/modules/home/controllers/home_controller.dart';
-import 'package:shoppy/main_wrapper.dart';
+import 'package:shoppy/splash_screen.dart';
 
 import 'app/routes/app_pages.dart';
 
@@ -21,7 +21,7 @@ Future<void> main() async {
     GetMaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Application",
-      home: MainWrapper(),
+      home: SplashScreen(),
       getPages: AppPages.routes,
     ),
   );

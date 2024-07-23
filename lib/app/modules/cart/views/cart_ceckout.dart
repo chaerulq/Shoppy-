@@ -14,6 +14,55 @@ class CheckoutCard extends StatelessWidget {
   CheckoutCard({
     super.key,
   });
+  void _showAlertDialog(BuildContext context) {
+    showDialog(
+      context: context,
+      barrierColor: Colors.transparent,
+      builder: (BuildContext context) {
+        Future.delayed(Duration(seconds: 2), () {
+          if (Navigator.of(context).canPop()) {
+            Navigator.of(context).pop();
+          }
+        });
+
+        return Center(
+          child: SizedBox(
+            width: 300,
+            height: 200,
+            child: AlertDialog(
+              backgroundColor: Colors.grey[400],
+              shape: RoundedRectangleBorder(
+                borderRadius: BorderRadius.circular(
+                  15,
+                ),
+              ),
+              content: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Icon(
+                    Icons.shopify_outlined,
+                    color: Colors.white,
+                    size: 60,
+                  ),
+                  Text(
+                    "Anda belum memilih produk apapun",
+                    textAlign: TextAlign.center,
+                    style: GoogleFonts.inter(
+                      textStyle: TextStyle(
+                        fontSize: 15,
+                        color: Colors.white,
+                        fontWeight: FontWeight.w500,
+                      ),
+                    ),
+                  )
+                ],
+              ), // Mengubah warna teks agar terlihat
+            ),
+          ),
+        );
+      },
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -75,15 +124,20 @@ class CheckoutCard extends StatelessWidget {
                     ),
                   ),
                   Expanded(
-                      child: FancyButton(
-                    text: "Checkout",
-                    onPressed: () {
-                      Get.to(() => PaymentView());
-                      cartController.checkout();
-                    },
-                    color: greenColor2,
-                    borderRadius: 0,
-                  )),
+                    child: FancyButton(
+                      text: "Checkout",
+                      onPressed: () {
+                        if (cartController.cartItems.isEmpty) {
+                          _showAlertDialog(context);
+                        } else {
+                          Get.to(() => PaymentView());
+                          cartController.checkout();
+                        }
+                      },
+                      color: greenColor2,
+                      borderRadius: 0,
+                    ),
+                  ),
                 ],
               ),
             ],

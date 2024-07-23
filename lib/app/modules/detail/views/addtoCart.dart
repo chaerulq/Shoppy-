@@ -3,7 +3,7 @@ import 'package:shoppy/app/data/models/product_models.dart';
 import 'package:shoppy/app/utils/color.dart';
 
 class AddToCart extends StatefulWidget {
-  Product product;
+  final Product product;
   AddToCart({super.key, required this.product});
 
   @override

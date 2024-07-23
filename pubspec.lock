@@ -33,6 +33,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.2"
+  archive:
+    dependency: transitive
+    description:
+      name: archive
+      sha256: cb6a278ef2dbb298455e1a713bda08524a175630ec643a242c399c932a0a1f7d
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.6.1"
   args:
     dependency: transitive
     description:
@@ -49,6 +57,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.11.0"
+  back_button_interceptor:
+    dependency: transitive
+    description:
+      name: back_button_interceptor
+      sha256: "8354b03320043db546e3f446af171faaa71384100486444113628f7db1e7fe9b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "7.0.3"
   badges:
     dependency: "direct main"
     description:
@@ -384,6 +400,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.0"
+  loader_overlay:
+    dependency: "direct main"
+    description:
+      name: loader_overlay
+      sha256: ccd07ad7050a29c076f0f518fd79f59ba51b6fc39f4d9ec11b2f61ba4111ae88
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.1"
+  lottie:
+    dependency: "direct main"
+    description:
+      name: lottie
+      sha256: "6a24ade5d3d918c306bb1c21a6b9a04aab0489d51a2582522eea820b4093b62b"
+      url: "https://pub.dev"
+    source: hosted
+    version: "3.1.2"
   matcher:
     dependency: transitive
     description:
